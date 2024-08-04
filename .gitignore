@@ -1,0 +1,6 @@
+.idea
+models
+temp
+__pycache__
+venv
+node_modules

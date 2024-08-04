@@ -1,0 +1,2137 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "importlib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "importlib",
+        "description": "importlib",
+        "detail": "importlib",
+        "documentation": {}
+    },
+    {
+        "label": "psutil",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "psutil",
+        "description": "psutil",
+        "detail": "psutil",
+        "documentation": {}
+    },
+    {
+        "label": "ThreadPoolExecutor",
+        "importPath": "concurrent.futures",
+        "description": "concurrent.futures",
+        "isExtraImport": true,
+        "detail": "concurrent.futures",
+        "documentation": {}
+    },
+    {
+        "label": "as_completed",
+        "importPath": "concurrent.futures",
+        "description": "concurrent.futures",
+        "isExtraImport": true,
+        "detail": "concurrent.futures",
+        "documentation": {}
+    },
+    {
+        "label": "Queue",
+        "importPath": "queue",
+        "description": "queue",
+        "isExtraImport": true,
+        "detail": "queue",
+        "documentation": {}
+    },
+    {
+        "label": "ModuleType",
+        "importPath": "types",
+        "description": "types",
+        "isExtraImport": true,
+        "detail": "types",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
+        "label": "roop",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "roop",
+        "description": "roop",
+        "detail": "roop",
+        "documentation": {}
+    },
+    {
+        "label": "core",
+        "importPath": "roop",
+        "description": "roop",
+        "isExtraImport": true,
+        "detail": "roop",
+        "documentation": {}
+    },
+    {
+        "label": "core",
+        "importPath": "roop",
+        "description": "roop",
+        "isExtraImport": true,
+        "detail": "roop",
+        "documentation": {}
+    },
+    {
+        "label": "cv2",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "cv2",
+        "description": "cv2",
+        "detail": "cv2",
+        "documentation": {}
+    },
+    {
+        "label": "threading",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "threading",
+        "description": "threading",
+        "detail": "threading",
+        "documentation": {}
+    },
+    {
+        "label": "GFPGANer",
+        "importPath": "gfpgan.utils",
+        "description": "gfpgan.utils",
+        "isExtraImport": true,
+        "detail": "gfpgan.utils",
+        "documentation": {}
+    },
+    {
+        "label": "roop.globals",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "roop.globals",
+        "description": "roop.globals",
+        "detail": "roop.globals",
+        "documentation": {}
+    },
+    {
+        "label": "roop.processors.frame.core",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "roop.processors.frame.core",
+        "description": "roop.processors.frame.core",
+        "detail": "roop.processors.frame.core",
+        "documentation": {}
+    },
+    {
+        "label": "get_frame_processors_modules",
+        "importPath": "roop.processors.frame.core",
+        "description": "roop.processors.frame.core",
+        "isExtraImport": true,
+        "detail": "roop.processors.frame.core",
+        "documentation": {}
+    },
+    {
+        "label": "get_frame_processors_modules",
+        "importPath": "roop.processors.frame.core",
+        "description": "roop.processors.frame.core",
+        "isExtraImport": true,
+        "detail": "roop.processors.frame.core",
+        "documentation": {}
+    },
+    {
+        "label": "update_status",
+        "importPath": "roop.core",
+        "description": "roop.core",
+        "isExtraImport": true,
+        "detail": "roop.core",
+        "documentation": {}
+    },
+    {
+        "label": "update_status",
+        "importPath": "roop.core",
+        "description": "roop.core",
+        "isExtraImport": true,
+        "detail": "roop.core",
+        "documentation": {}
+    },
+    {
+        "label": "get_many_faces",
+        "importPath": "roop.face_analyser",
+        "description": "roop.face_analyser",
+        "isExtraImport": true,
+        "detail": "roop.face_analyser",
+        "documentation": {}
+    },
+    {
+        "label": "get_one_face",
+        "importPath": "roop.face_analyser",
+        "description": "roop.face_analyser",
+        "isExtraImport": true,
+        "detail": "roop.face_analyser",
+        "documentation": {}
+    },
+    {
+        "label": "get_many_faces",
+        "importPath": "roop.face_analyser",
+        "description": "roop.face_analyser",
+        "isExtraImport": true,
+        "detail": "roop.face_analyser",
+        "documentation": {}
+    },
+    {
+        "label": "find_similar_face",
+        "importPath": "roop.face_analyser",
+        "description": "roop.face_analyser",
+        "isExtraImport": true,
+        "detail": "roop.face_analyser",
+        "documentation": {}
+    },
+    {
+        "label": "get_one_face",
+        "importPath": "roop.face_analyser",
+        "description": "roop.face_analyser",
+        "isExtraImport": true,
+        "detail": "roop.face_analyser",
+        "documentation": {}
+    },
+    {
+        "label": "Frame",
+        "importPath": "roop.typing",
+        "description": "roop.typing",
+        "isExtraImport": true,
+        "detail": "roop.typing",
+        "documentation": {}
+    },
+    {
+        "label": "Face",
+        "importPath": "roop.typing",
+        "description": "roop.typing",
+        "isExtraImport": true,
+        "detail": "roop.typing",
+        "documentation": {}
+    },
+    {
+        "label": "Face",
+        "importPath": "roop.typing",
+        "description": "roop.typing",
+        "isExtraImport": true,
+        "detail": "roop.typing",
+        "documentation": {}
+    },
+    {
+        "label": "Frame",
+        "importPath": "roop.typing",
+        "description": "roop.typing",
+        "isExtraImport": true,
+        "detail": "roop.typing",
+        "documentation": {}
+    },
+    {
+        "label": "Frame",
+        "importPath": "roop.typing",
+        "description": "roop.typing",
+        "isExtraImport": true,
+        "detail": "roop.typing",
+        "documentation": {}
+    },
+    {
+        "label": "Frame",
+        "importPath": "roop.typing",
+        "description": "roop.typing",
+        "isExtraImport": true,
+        "detail": "roop.typing",
+        "documentation": {}
+    },
+    {
+        "label": "Face",
+        "importPath": "roop.typing",
+        "description": "roop.typing",
+        "isExtraImport": true,
+        "detail": "roop.typing",
+        "documentation": {}
+    },
+    {
+        "label": "Face",
+        "importPath": "roop.typing",
+        "description": "roop.typing",
+        "isExtraImport": true,
+        "detail": "roop.typing",
+        "documentation": {}
+    },
+    {
+        "label": "Frame",
+        "importPath": "roop.typing",
+        "description": "roop.typing",
+        "isExtraImport": true,
+        "detail": "roop.typing",
+        "documentation": {}
+    },
+    {
+        "label": "conditional_download",
+        "importPath": "roop.utilities",
+        "description": "roop.utilities",
+        "isExtraImport": true,
+        "detail": "roop.utilities",
+        "documentation": {}
+    },
+    {
+        "label": "resolve_relative_path",
+        "importPath": "roop.utilities",
+        "description": "roop.utilities",
+        "isExtraImport": true,
+        "detail": "roop.utilities",
+        "documentation": {}
+    },
+    {
+        "label": "is_image",
+        "importPath": "roop.utilities",
+        "description": "roop.utilities",
+        "isExtraImport": true,
+        "detail": "roop.utilities",
+        "documentation": {}
+    },
+    {
+        "label": "is_video",
+        "importPath": "roop.utilities",
+        "description": "roop.utilities",
+        "isExtraImport": true,
+        "detail": "roop.utilities",
+        "documentation": {}
+    },
+    {
+        "label": "conditional_download",
+        "importPath": "roop.utilities",
+        "description": "roop.utilities",
+        "isExtraImport": true,
+        "detail": "roop.utilities",
+        "documentation": {}
+    },
+    {
+        "label": "resolve_relative_path",
+        "importPath": "roop.utilities",
+        "description": "roop.utilities",
+        "isExtraImport": true,
+        "detail": "roop.utilities",
+        "documentation": {}
+    },
+    {
+        "label": "is_image",
+        "importPath": "roop.utilities",
+        "description": "roop.utilities",
+        "isExtraImport": true,
+        "detail": "roop.utilities",
+        "documentation": {}
+    },
+    {
+        "label": "is_video",
+        "importPath": "roop.utilities",
+        "description": "roop.utilities",
+        "isExtraImport": true,
+        "detail": "roop.utilities",
+        "documentation": {}
+    },
+    {
+        "label": "has_image_extension",
+        "importPath": "roop.utilities",
+        "description": "roop.utilities",
+        "isExtraImport": true,
+        "detail": "roop.utilities",
+        "documentation": {}
+    },
+    {
+        "label": "is_image",
+        "importPath": "roop.utilities",
+        "description": "roop.utilities",
+        "isExtraImport": true,
+        "detail": "roop.utilities",
+        "documentation": {}
+    },
+    {
+        "label": "is_video",
+        "importPath": "roop.utilities",
+        "description": "roop.utilities",
+        "isExtraImport": true,
+        "detail": "roop.utilities",
+        "documentation": {}
+    },
+    {
+        "label": "detect_fps",
+        "importPath": "roop.utilities",
+        "description": "roop.utilities",
+        "isExtraImport": true,
+        "detail": "roop.utilities",
+        "documentation": {}
+    },
+    {
+        "label": "create_video",
+        "importPath": "roop.utilities",
+        "description": "roop.utilities",
+        "isExtraImport": true,
+        "detail": "roop.utilities",
+        "documentation": {}
+    },
+    {
+        "label": "extract_frames",
+        "importPath": "roop.utilities",
+        "description": "roop.utilities",
+        "isExtraImport": true,
+        "detail": "roop.utilities",
+        "documentation": {}
+    },
+    {
+        "label": "get_temp_frame_paths",
+        "importPath": "roop.utilities",
+        "description": "roop.utilities",
+        "isExtraImport": true,
+        "detail": "roop.utilities",
+        "documentation": {}
+    },
+    {
+        "label": "restore_audio",
+        "importPath": "roop.utilities",
+        "description": "roop.utilities",
+        "isExtraImport": true,
+        "detail": "roop.utilities",
+        "documentation": {}
+    },
+    {
+        "label": "create_temp",
+        "importPath": "roop.utilities",
+        "description": "roop.utilities",
+        "isExtraImport": true,
+        "detail": "roop.utilities",
+        "documentation": {}
+    },
+    {
+        "label": "move_temp",
+        "importPath": "roop.utilities",
+        "description": "roop.utilities",
+        "isExtraImport": true,
+        "detail": "roop.utilities",
+        "documentation": {}
+    },
+    {
+        "label": "clean_temp",
+        "importPath": "roop.utilities",
+        "description": "roop.utilities",
+        "isExtraImport": true,
+        "detail": "roop.utilities",
+        "documentation": {}
+    },
+    {
+        "label": "normalize_output_path",
+        "importPath": "roop.utilities",
+        "description": "roop.utilities",
+        "isExtraImport": true,
+        "detail": "roop.utilities",
+        "documentation": {}
+    },
+    {
+        "label": "is_image",
+        "importPath": "roop.utilities",
+        "description": "roop.utilities",
+        "isExtraImport": true,
+        "detail": "roop.utilities",
+        "documentation": {}
+    },
+    {
+        "label": "is_video",
+        "importPath": "roop.utilities",
+        "description": "roop.utilities",
+        "isExtraImport": true,
+        "detail": "roop.utilities",
+        "documentation": {}
+    },
+    {
+        "label": "resolve_relative_path",
+        "importPath": "roop.utilities",
+        "description": "roop.utilities",
+        "isExtraImport": true,
+        "detail": "roop.utilities",
+        "documentation": {}
+    },
+    {
+        "label": "insightface",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "insightface",
+        "description": "insightface",
+        "detail": "insightface",
+        "documentation": {}
+    },
+    {
+        "label": "get_face_reference",
+        "importPath": "roop.face_reference",
+        "description": "roop.face_reference",
+        "isExtraImport": true,
+        "detail": "roop.face_reference",
+        "documentation": {}
+    },
+    {
+        "label": "set_face_reference",
+        "importPath": "roop.face_reference",
+        "description": "roop.face_reference",
+        "isExtraImport": true,
+        "detail": "roop.face_reference",
+        "documentation": {}
+    },
+    {
+        "label": "clear_face_reference",
+        "importPath": "roop.face_reference",
+        "description": "roop.face_reference",
+        "isExtraImport": true,
+        "detail": "roop.face_reference",
+        "documentation": {}
+    },
+    {
+        "label": "get_face_reference",
+        "importPath": "roop.face_reference",
+        "description": "roop.face_reference",
+        "isExtraImport": true,
+        "detail": "roop.face_reference",
+        "documentation": {}
+    },
+    {
+        "label": "set_face_reference",
+        "importPath": "roop.face_reference",
+        "description": "roop.face_reference",
+        "isExtraImport": true,
+        "detail": "roop.face_reference",
+        "documentation": {}
+    },
+    {
+        "label": "clear_face_reference",
+        "importPath": "roop.face_reference",
+        "description": "roop.face_reference",
+        "isExtraImport": true,
+        "detail": "roop.face_reference",
+        "documentation": {}
+    },
+    {
+        "label": "warnings",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "warnings",
+        "description": "warnings",
+        "detail": "warnings",
+        "documentation": {}
+    },
+    {
+        "label": "platform",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "platform",
+        "description": "platform",
+        "detail": "platform",
+        "documentation": {}
+    },
+    {
+        "label": "signal",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "signal",
+        "description": "signal",
+        "detail": "signal",
+        "documentation": {}
+    },
+    {
+        "label": "shutil",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "shutil",
+        "description": "shutil",
+        "detail": "shutil",
+        "documentation": {}
+    },
+    {
+        "label": "argparse",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "argparse",
+        "description": "argparse",
+        "detail": "argparse",
+        "documentation": {}
+    },
+    {
+        "label": "onnxruntime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "onnxruntime",
+        "description": "onnxruntime",
+        "detail": "onnxruntime",
+        "documentation": {}
+    },
+    {
+        "label": "tensorflow",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tensorflow",
+        "description": "tensorflow",
+        "detail": "tensorflow",
+        "documentation": {}
+    },
+    {
+        "label": "roop.metadata",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "roop.metadata",
+        "description": "roop.metadata",
+        "detail": "roop.metadata",
+        "documentation": {}
+    },
+    {
+        "label": "roop.ui",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "roop.ui",
+        "description": "roop.ui",
+        "detail": "roop.ui",
+        "documentation": {}
+    },
+    {
+        "label": "predict_image",
+        "importPath": "roop.predictor",
+        "description": "roop.predictor",
+        "isExtraImport": true,
+        "detail": "roop.predictor",
+        "documentation": {}
+    },
+    {
+        "label": "predict_video",
+        "importPath": "roop.predictor",
+        "description": "roop.predictor",
+        "isExtraImport": true,
+        "detail": "roop.predictor",
+        "documentation": {}
+    },
+    {
+        "label": "predict_frame",
+        "importPath": "roop.predictor",
+        "description": "roop.predictor",
+        "isExtraImport": true,
+        "detail": "roop.predictor",
+        "documentation": {}
+    },
+    {
+        "label": "clear_predictor",
+        "importPath": "roop.predictor",
+        "description": "roop.predictor",
+        "isExtraImport": true,
+        "detail": "roop.predictor",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "opennsfw2",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "opennsfw2",
+        "description": "opennsfw2",
+        "detail": "opennsfw2",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "ImageOps",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "Model",
+        "importPath": "keras",
+        "description": "keras",
+        "isExtraImport": true,
+        "detail": "keras",
+        "documentation": {}
+    },
+    {
+        "label": "Face",
+        "importPath": "insightface.app.common",
+        "description": "insightface.app.common",
+        "isExtraImport": true,
+        "detail": "insightface.app.common",
+        "documentation": {}
+    },
+    {
+        "label": "webbrowser",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "webbrowser",
+        "description": "webbrowser",
+        "detail": "webbrowser",
+        "documentation": {}
+    },
+    {
+        "label": "customtkinter",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "customtkinter",
+        "description": "customtkinter",
+        "detail": "customtkinter",
+        "documentation": {}
+    },
+    {
+        "label": "TkinterDnD",
+        "importPath": "tkinterdnd2",
+        "description": "tkinterdnd2",
+        "isExtraImport": true,
+        "detail": "tkinterdnd2",
+        "documentation": {}
+    },
+    {
+        "label": "DND_ALL",
+        "importPath": "tkinterdnd2",
+        "description": "tkinterdnd2",
+        "isExtraImport": true,
+        "detail": "tkinterdnd2",
+        "documentation": {}
+    },
+    {
+        "label": "get_video_frame",
+        "importPath": "roop.capturer",
+        "description": "roop.capturer",
+        "isExtraImport": true,
+        "detail": "roop.capturer",
+        "documentation": {}
+    },
+    {
+        "label": "get_video_frame_total",
+        "importPath": "roop.capturer",
+        "description": "roop.capturer",
+        "isExtraImport": true,
+        "detail": "roop.capturer",
+        "documentation": {}
+    },
+    {
+        "label": "glob",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "glob",
+        "description": "glob",
+        "detail": "glob",
+        "documentation": {}
+    },
+    {
+        "label": "mimetypes",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "mimetypes",
+        "description": "mimetypes",
+        "detail": "mimetypes",
+        "documentation": {}
+    },
+    {
+        "label": "ssl",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "ssl",
+        "description": "ssl",
+        "detail": "ssl",
+        "documentation": {}
+    },
+    {
+        "label": "subprocess",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "subprocess",
+        "description": "subprocess",
+        "detail": "subprocess",
+        "documentation": {}
+    },
+    {
+        "label": "urllib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "urllib",
+        "description": "urllib",
+        "detail": "urllib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "load_frame_processor_module",
+        "kind": 2,
+        "importPath": "roop.processors.frame.core",
+        "description": "roop.processors.frame.core",
+        "peekOfCode": "def load_frame_processor_module(frame_processor: str) -> Any:\n    try:\n        frame_processor_module = importlib.import_module(f'roop.processors.frame.{frame_processor}')\n        for method_name in FRAME_PROCESSORS_INTERFACE:\n            if not hasattr(frame_processor_module, method_name):\n                raise NotImplementedError\n    except ModuleNotFoundError:\n        sys.exit(f'Frame processor {frame_processor} not found.')\n    except NotImplementedError:\n        sys.exit(f'Frame processor {frame_processor} not implemented correctly.')",
+        "detail": "roop.processors.frame.core",
+        "documentation": {}
+    },
+    {
+        "label": "get_frame_processors_modules",
+        "kind": 2,
+        "importPath": "roop.processors.frame.core",
+        "description": "roop.processors.frame.core",
+        "peekOfCode": "def get_frame_processors_modules(frame_processors: List[str]) -> List[ModuleType]:\n    global FRAME_PROCESSORS_MODULES\n    if not FRAME_PROCESSORS_MODULES:\n        for frame_processor in frame_processors:\n            frame_processor_module = load_frame_processor_module(frame_processor)\n            FRAME_PROCESSORS_MODULES.append(frame_processor_module)\n    return FRAME_PROCESSORS_MODULES\ndef multi_process_frame(source_path: str, temp_frame_paths: List[str], process_frames: Callable[[str, List[str], Any], None], update: Callable[[], None]) -> None:\n    with ThreadPoolExecutor(max_workers=roop.globals.execution_threads) as executor:\n        futures = []",
+        "detail": "roop.processors.frame.core",
+        "documentation": {}
+    },
+    {
+        "label": "multi_process_frame",
+        "kind": 2,
+        "importPath": "roop.processors.frame.core",
+        "description": "roop.processors.frame.core",
+        "peekOfCode": "def multi_process_frame(source_path: str, temp_frame_paths: List[str], process_frames: Callable[[str, List[str], Any], None], update: Callable[[], None]) -> None:\n    with ThreadPoolExecutor(max_workers=roop.globals.execution_threads) as executor:\n        futures = []\n        queue = create_queue(temp_frame_paths)\n        queue_per_future = max(len(temp_frame_paths) // roop.globals.execution_threads, 1)\n        while not queue.empty():\n            future = executor.submit(process_frames, source_path, pick_queue(queue, queue_per_future), update)\n            futures.append(future)\n        for future in as_completed(futures):\n            future.result()",
+        "detail": "roop.processors.frame.core",
+        "documentation": {}
+    },
+    {
+        "label": "create_queue",
+        "kind": 2,
+        "importPath": "roop.processors.frame.core",
+        "description": "roop.processors.frame.core",
+        "peekOfCode": "def create_queue(temp_frame_paths: List[str]) -> Queue[str]:\n    queue: Queue[str] = Queue()\n    for frame_path in temp_frame_paths:\n        queue.put(frame_path)\n    return queue\ndef pick_queue(queue: Queue[str], queue_per_future: int) -> List[str]:\n    queues = []\n    for _ in range(queue_per_future):\n        if not queue.empty():\n            queues.append(queue.get())",
+        "detail": "roop.processors.frame.core",
+        "documentation": {}
+    },
+    {
+        "label": "pick_queue",
+        "kind": 2,
+        "importPath": "roop.processors.frame.core",
+        "description": "roop.processors.frame.core",
+        "peekOfCode": "def pick_queue(queue: Queue[str], queue_per_future: int) -> List[str]:\n    queues = []\n    for _ in range(queue_per_future):\n        if not queue.empty():\n            queues.append(queue.get())\n    return queues\ndef process_video(source_path: str, frame_paths: list[str], process_frames: Callable[[str, List[str], Any], None]) -> None:\n    progress_bar_format = '{l_bar}{bar}| {n_fmt}/{total_fmt} [{elapsed}<{remaining}, {rate_fmt}{postfix}]'\n    total = len(frame_paths)\n    with tqdm(total=total, desc='Processing', unit='frame', dynamic_ncols=True, bar_format=progress_bar_format) as progress:",
+        "detail": "roop.processors.frame.core",
+        "documentation": {}
+    },
+    {
+        "label": "process_video",
+        "kind": 2,
+        "importPath": "roop.processors.frame.core",
+        "description": "roop.processors.frame.core",
+        "peekOfCode": "def process_video(source_path: str, frame_paths: list[str], process_frames: Callable[[str, List[str], Any], None]) -> None:\n    progress_bar_format = '{l_bar}{bar}| {n_fmt}/{total_fmt} [{elapsed}<{remaining}, {rate_fmt}{postfix}]'\n    total = len(frame_paths)\n    with tqdm(total=total, desc='Processing', unit='frame', dynamic_ncols=True, bar_format=progress_bar_format) as progress:\n        multi_process_frame(source_path, frame_paths, process_frames, lambda: update_progress(progress))\ndef update_progress(progress: Any = None) -> None:\n    process = psutil.Process(os.getpid())\n    memory_usage = process.memory_info().rss / 1024 / 1024 / 1024\n    progress.set_postfix({\n        'memory_usage': '{:.2f}'.format(memory_usage).zfill(5) + 'GB',",
+        "detail": "roop.processors.frame.core",
+        "documentation": {}
+    },
+    {
+        "label": "update_progress",
+        "kind": 2,
+        "importPath": "roop.processors.frame.core",
+        "description": "roop.processors.frame.core",
+        "peekOfCode": "def update_progress(progress: Any = None) -> None:\n    process = psutil.Process(os.getpid())\n    memory_usage = process.memory_info().rss / 1024 / 1024 / 1024\n    progress.set_postfix({\n        'memory_usage': '{:.2f}'.format(memory_usage).zfill(5) + 'GB',\n        'execution_providers': roop.globals.execution_providers,\n        'execution_threads': roop.globals.execution_threads\n    })\n    progress.refresh()\n    progress.update(1)",
+        "detail": "roop.processors.frame.core",
+        "documentation": {}
+    },
+    {
+        "label": "FRAME_PROCESSORS_INTERFACE",
+        "kind": 5,
+        "importPath": "roop.processors.frame.core",
+        "description": "roop.processors.frame.core",
+        "peekOfCode": "FRAME_PROCESSORS_INTERFACE = [\n    'pre_check',\n    'pre_start',\n    'process_frame',\n    'process_frames',\n    'process_image',\n    'process_video',\n    'post_process'\n]\ndef load_frame_processor_module(frame_processor: str) -> Any:",
+        "detail": "roop.processors.frame.core",
+        "documentation": {}
+    },
+    {
+        "label": "get_face_enhancer",
+        "kind": 2,
+        "importPath": "roop.processors.frame.face_enhancer",
+        "description": "roop.processors.frame.face_enhancer",
+        "peekOfCode": "def get_face_enhancer() -> Any:\n    global FACE_ENHANCER\n    with THREAD_LOCK:\n        if FACE_ENHANCER is None:\n            model_path = resolve_relative_path('../models/GFPGANv1.4.pth')\n            # todo: set models path -> https://github.com/TencentARC/GFPGAN/issues/399\n            FACE_ENHANCER = GFPGANer(model_path=model_path, upscale=1, device=get_device())\n    return FACE_ENHANCER\ndef get_device() -> str:\n    if 'CUDAExecutionProvider' in roop.globals.execution_providers:",
+        "detail": "roop.processors.frame.face_enhancer",
+        "documentation": {}
+    },
+    {
+        "label": "get_device",
+        "kind": 2,
+        "importPath": "roop.processors.frame.face_enhancer",
+        "description": "roop.processors.frame.face_enhancer",
+        "peekOfCode": "def get_device() -> str:\n    if 'CUDAExecutionProvider' in roop.globals.execution_providers:\n        return 'cuda'\n    if 'CoreMLExecutionProvider' in roop.globals.execution_providers:\n        return 'mps'\n    return 'cpu'\ndef clear_face_enhancer() -> None:\n    global FACE_ENHANCER\n    FACE_ENHANCER = None\ndef pre_check() -> bool:",
+        "detail": "roop.processors.frame.face_enhancer",
+        "documentation": {}
+    },
+    {
+        "label": "clear_face_enhancer",
+        "kind": 2,
+        "importPath": "roop.processors.frame.face_enhancer",
+        "description": "roop.processors.frame.face_enhancer",
+        "peekOfCode": "def clear_face_enhancer() -> None:\n    global FACE_ENHANCER\n    FACE_ENHANCER = None\ndef pre_check() -> bool:\n    download_directory_path = resolve_relative_path('../models')\n    conditional_download(download_directory_path, ['https://github.com/TencentARC/GFPGAN/releases/download/v1.3.4/GFPGANv1.4.pth'])\n    return True\ndef pre_start() -> bool:\n    if not is_image(roop.globals.target_path) and not is_video(roop.globals.target_path):\n        update_status('Select an image or video for target path.', NAME)",
+        "detail": "roop.processors.frame.face_enhancer",
+        "documentation": {}
+    },
+    {
+        "label": "pre_check",
+        "kind": 2,
+        "importPath": "roop.processors.frame.face_enhancer",
+        "description": "roop.processors.frame.face_enhancer",
+        "peekOfCode": "def pre_check() -> bool:\n    download_directory_path = resolve_relative_path('../models')\n    conditional_download(download_directory_path, ['https://github.com/TencentARC/GFPGAN/releases/download/v1.3.4/GFPGANv1.4.pth'])\n    return True\ndef pre_start() -> bool:\n    if not is_image(roop.globals.target_path) and not is_video(roop.globals.target_path):\n        update_status('Select an image or video for target path.', NAME)\n        return False\n    return True\ndef post_process() -> None:",
+        "detail": "roop.processors.frame.face_enhancer",
+        "documentation": {}
+    },
+    {
+        "label": "pre_start",
+        "kind": 2,
+        "importPath": "roop.processors.frame.face_enhancer",
+        "description": "roop.processors.frame.face_enhancer",
+        "peekOfCode": "def pre_start() -> bool:\n    if not is_image(roop.globals.target_path) and not is_video(roop.globals.target_path):\n        update_status('Select an image or video for target path.', NAME)\n        return False\n    return True\ndef post_process() -> None:\n    clear_face_enhancer()\ndef enhance_face(target_face: Face, temp_frame: Frame) -> Frame:\n    start_x, start_y, end_x, end_y = map(int, target_face['bbox'])\n    padding_x = int((end_x - start_x) * 0.5)",
+        "detail": "roop.processors.frame.face_enhancer",
+        "documentation": {}
+    },
+    {
+        "label": "post_process",
+        "kind": 2,
+        "importPath": "roop.processors.frame.face_enhancer",
+        "description": "roop.processors.frame.face_enhancer",
+        "peekOfCode": "def post_process() -> None:\n    clear_face_enhancer()\ndef enhance_face(target_face: Face, temp_frame: Frame) -> Frame:\n    start_x, start_y, end_x, end_y = map(int, target_face['bbox'])\n    padding_x = int((end_x - start_x) * 0.5)\n    padding_y = int((end_y - start_y) * 0.5)\n    start_x = max(0, start_x - padding_x)\n    start_y = max(0, start_y - padding_y)\n    end_x = max(0, end_x + padding_x)\n    end_y = max(0, end_y + padding_y)",
+        "detail": "roop.processors.frame.face_enhancer",
+        "documentation": {}
+    },
+    {
+        "label": "enhance_face",
+        "kind": 2,
+        "importPath": "roop.processors.frame.face_enhancer",
+        "description": "roop.processors.frame.face_enhancer",
+        "peekOfCode": "def enhance_face(target_face: Face, temp_frame: Frame) -> Frame:\n    start_x, start_y, end_x, end_y = map(int, target_face['bbox'])\n    padding_x = int((end_x - start_x) * 0.5)\n    padding_y = int((end_y - start_y) * 0.5)\n    start_x = max(0, start_x - padding_x)\n    start_y = max(0, start_y - padding_y)\n    end_x = max(0, end_x + padding_x)\n    end_y = max(0, end_y + padding_y)\n    temp_face = temp_frame[start_y:end_y, start_x:end_x]\n    if temp_face.size:",
+        "detail": "roop.processors.frame.face_enhancer",
+        "documentation": {}
+    },
+    {
+        "label": "process_frame",
+        "kind": 2,
+        "importPath": "roop.processors.frame.face_enhancer",
+        "description": "roop.processors.frame.face_enhancer",
+        "peekOfCode": "def process_frame(source_face: Face, reference_face: Face, temp_frame: Frame) -> Frame:\n    many_faces = get_many_faces(temp_frame)\n    if many_faces:\n        for target_face in many_faces:\n            temp_frame = enhance_face(target_face, temp_frame)\n    return temp_frame\ndef process_frames(source_path: str, temp_frame_paths: List[str], update: Callable[[], None]) -> None:\n    for temp_frame_path in temp_frame_paths:\n        temp_frame = cv2.imread(temp_frame_path)\n        result = process_frame(None, None, temp_frame)",
+        "detail": "roop.processors.frame.face_enhancer",
+        "documentation": {}
+    },
+    {
+        "label": "process_frames",
+        "kind": 2,
+        "importPath": "roop.processors.frame.face_enhancer",
+        "description": "roop.processors.frame.face_enhancer",
+        "peekOfCode": "def process_frames(source_path: str, temp_frame_paths: List[str], update: Callable[[], None]) -> None:\n    for temp_frame_path in temp_frame_paths:\n        temp_frame = cv2.imread(temp_frame_path)\n        result = process_frame(None, None, temp_frame)\n        cv2.imwrite(temp_frame_path, result)\n        if update:\n            update()\ndef process_image(source_path: str, target_path: str, output_path: str) -> None:\n    target_frame = cv2.imread(target_path)\n    result = process_frame(None, None, target_frame)",
+        "detail": "roop.processors.frame.face_enhancer",
+        "documentation": {}
+    },
+    {
+        "label": "process_image",
+        "kind": 2,
+        "importPath": "roop.processors.frame.face_enhancer",
+        "description": "roop.processors.frame.face_enhancer",
+        "peekOfCode": "def process_image(source_path: str, target_path: str, output_path: str) -> None:\n    target_frame = cv2.imread(target_path)\n    result = process_frame(None, None, target_frame)\n    cv2.imwrite(output_path, result)\ndef process_video(source_path: str, temp_frame_paths: List[str]) -> None:\n    roop.processors.frame.core.process_video(None, temp_frame_paths, process_frames)",
+        "detail": "roop.processors.frame.face_enhancer",
+        "documentation": {}
+    },
+    {
+        "label": "process_video",
+        "kind": 2,
+        "importPath": "roop.processors.frame.face_enhancer",
+        "description": "roop.processors.frame.face_enhancer",
+        "peekOfCode": "def process_video(source_path: str, temp_frame_paths: List[str]) -> None:\n    roop.processors.frame.core.process_video(None, temp_frame_paths, process_frames)",
+        "detail": "roop.processors.frame.face_enhancer",
+        "documentation": {}
+    },
+    {
+        "label": "FACE_ENHANCER",
+        "kind": 5,
+        "importPath": "roop.processors.frame.face_enhancer",
+        "description": "roop.processors.frame.face_enhancer",
+        "peekOfCode": "FACE_ENHANCER = None\nTHREAD_SEMAPHORE = threading.Semaphore()\nTHREAD_LOCK = threading.Lock()\nNAME = 'ROOP.FACE-ENHANCER'\ndef get_face_enhancer() -> Any:\n    global FACE_ENHANCER\n    with THREAD_LOCK:\n        if FACE_ENHANCER is None:\n            model_path = resolve_relative_path('../models/GFPGANv1.4.pth')\n            # todo: set models path -> https://github.com/TencentARC/GFPGAN/issues/399",
+        "detail": "roop.processors.frame.face_enhancer",
+        "documentation": {}
+    },
+    {
+        "label": "THREAD_SEMAPHORE",
+        "kind": 5,
+        "importPath": "roop.processors.frame.face_enhancer",
+        "description": "roop.processors.frame.face_enhancer",
+        "peekOfCode": "THREAD_SEMAPHORE = threading.Semaphore()\nTHREAD_LOCK = threading.Lock()\nNAME = 'ROOP.FACE-ENHANCER'\ndef get_face_enhancer() -> Any:\n    global FACE_ENHANCER\n    with THREAD_LOCK:\n        if FACE_ENHANCER is None:\n            model_path = resolve_relative_path('../models/GFPGANv1.4.pth')\n            # todo: set models path -> https://github.com/TencentARC/GFPGAN/issues/399\n            FACE_ENHANCER = GFPGANer(model_path=model_path, upscale=1, device=get_device())",
+        "detail": "roop.processors.frame.face_enhancer",
+        "documentation": {}
+    },
+    {
+        "label": "THREAD_LOCK",
+        "kind": 5,
+        "importPath": "roop.processors.frame.face_enhancer",
+        "description": "roop.processors.frame.face_enhancer",
+        "peekOfCode": "THREAD_LOCK = threading.Lock()\nNAME = 'ROOP.FACE-ENHANCER'\ndef get_face_enhancer() -> Any:\n    global FACE_ENHANCER\n    with THREAD_LOCK:\n        if FACE_ENHANCER is None:\n            model_path = resolve_relative_path('../models/GFPGANv1.4.pth')\n            # todo: set models path -> https://github.com/TencentARC/GFPGAN/issues/399\n            FACE_ENHANCER = GFPGANer(model_path=model_path, upscale=1, device=get_device())\n    return FACE_ENHANCER",
+        "detail": "roop.processors.frame.face_enhancer",
+        "documentation": {}
+    },
+    {
+        "label": "NAME",
+        "kind": 5,
+        "importPath": "roop.processors.frame.face_enhancer",
+        "description": "roop.processors.frame.face_enhancer",
+        "peekOfCode": "NAME = 'ROOP.FACE-ENHANCER'\ndef get_face_enhancer() -> Any:\n    global FACE_ENHANCER\n    with THREAD_LOCK:\n        if FACE_ENHANCER is None:\n            model_path = resolve_relative_path('../models/GFPGANv1.4.pth')\n            # todo: set models path -> https://github.com/TencentARC/GFPGAN/issues/399\n            FACE_ENHANCER = GFPGANer(model_path=model_path, upscale=1, device=get_device())\n    return FACE_ENHANCER\ndef get_device() -> str:",
+        "detail": "roop.processors.frame.face_enhancer",
+        "documentation": {}
+    },
+    {
+        "label": "get_face_swapper",
+        "kind": 2,
+        "importPath": "roop.processors.frame.face_swapper",
+        "description": "roop.processors.frame.face_swapper",
+        "peekOfCode": "def get_face_swapper() -> Any:\n    global FACE_SWAPPER\n    with THREAD_LOCK:\n        if FACE_SWAPPER is None:\n            model_path = resolve_relative_path('../models/inswapper_128.onnx')\n            FACE_SWAPPER = insightface.model_zoo.get_model(model_path, providers=roop.globals.execution_providers)\n    return FACE_SWAPPER\ndef clear_face_swapper() -> None:\n    global FACE_SWAPPER\n    FACE_SWAPPER = None",
+        "detail": "roop.processors.frame.face_swapper",
+        "documentation": {}
+    },
+    {
+        "label": "clear_face_swapper",
+        "kind": 2,
+        "importPath": "roop.processors.frame.face_swapper",
+        "description": "roop.processors.frame.face_swapper",
+        "peekOfCode": "def clear_face_swapper() -> None:\n    global FACE_SWAPPER\n    FACE_SWAPPER = None\ndef pre_check() -> bool:\n    download_directory_path = resolve_relative_path('../models')\n    conditional_download(download_directory_path, ['https://huggingface.co/CountFloyd/deepfake/resolve/main/inswapper_128.onnx'])\n    return True\ndef pre_start() -> bool:\n    if not is_image(roop.globals.source_path):\n        update_status('Select an image for source path.', NAME)",
+        "detail": "roop.processors.frame.face_swapper",
+        "documentation": {}
+    },
+    {
+        "label": "pre_check",
+        "kind": 2,
+        "importPath": "roop.processors.frame.face_swapper",
+        "description": "roop.processors.frame.face_swapper",
+        "peekOfCode": "def pre_check() -> bool:\n    download_directory_path = resolve_relative_path('../models')\n    conditional_download(download_directory_path, ['https://huggingface.co/CountFloyd/deepfake/resolve/main/inswapper_128.onnx'])\n    return True\ndef pre_start() -> bool:\n    if not is_image(roop.globals.source_path):\n        update_status('Select an image for source path.', NAME)\n        return False\n    elif not get_one_face(cv2.imread(roop.globals.source_path)):\n        update_status('No face in source path detected.', NAME)",
+        "detail": "roop.processors.frame.face_swapper",
+        "documentation": {}
+    },
+    {
+        "label": "pre_start",
+        "kind": 2,
+        "importPath": "roop.processors.frame.face_swapper",
+        "description": "roop.processors.frame.face_swapper",
+        "peekOfCode": "def pre_start() -> bool:\n    if not is_image(roop.globals.source_path):\n        update_status('Select an image for source path.', NAME)\n        return False\n    elif not get_one_face(cv2.imread(roop.globals.source_path)):\n        update_status('No face in source path detected.', NAME)\n        return False\n    if not is_image(roop.globals.target_path) and not is_video(roop.globals.target_path):\n        update_status('Select an image or video for target path.', NAME)\n        return False",
+        "detail": "roop.processors.frame.face_swapper",
+        "documentation": {}
+    },
+    {
+        "label": "post_process",
+        "kind": 2,
+        "importPath": "roop.processors.frame.face_swapper",
+        "description": "roop.processors.frame.face_swapper",
+        "peekOfCode": "def post_process() -> None:\n    clear_face_swapper()\n    clear_face_reference()\ndef swap_face(source_face: Face, target_face: Face, temp_frame: Frame) -> Frame:\n    return get_face_swapper().get(temp_frame, target_face, source_face, paste_back=True)\ndef process_frame(source_face: Face, reference_face: Face, temp_frame: Frame) -> Frame:\n    if roop.globals.many_faces:\n        many_faces = get_many_faces(temp_frame)\n        if many_faces:\n            for target_face in many_faces:",
+        "detail": "roop.processors.frame.face_swapper",
+        "documentation": {}
+    },
+    {
+        "label": "swap_face",
+        "kind": 2,
+        "importPath": "roop.processors.frame.face_swapper",
+        "description": "roop.processors.frame.face_swapper",
+        "peekOfCode": "def swap_face(source_face: Face, target_face: Face, temp_frame: Frame) -> Frame:\n    return get_face_swapper().get(temp_frame, target_face, source_face, paste_back=True)\ndef process_frame(source_face: Face, reference_face: Face, temp_frame: Frame) -> Frame:\n    if roop.globals.many_faces:\n        many_faces = get_many_faces(temp_frame)\n        if many_faces:\n            for target_face in many_faces:\n                temp_frame = swap_face(source_face, target_face, temp_frame)\n    else:\n        target_face = find_similar_face(temp_frame, reference_face)",
+        "detail": "roop.processors.frame.face_swapper",
+        "documentation": {}
+    },
+    {
+        "label": "process_frame",
+        "kind": 2,
+        "importPath": "roop.processors.frame.face_swapper",
+        "description": "roop.processors.frame.face_swapper",
+        "peekOfCode": "def process_frame(source_face: Face, reference_face: Face, temp_frame: Frame) -> Frame:\n    if roop.globals.many_faces:\n        many_faces = get_many_faces(temp_frame)\n        if many_faces:\n            for target_face in many_faces:\n                temp_frame = swap_face(source_face, target_face, temp_frame)\n    else:\n        target_face = find_similar_face(temp_frame, reference_face)\n        if target_face:\n            temp_frame = swap_face(source_face, target_face, temp_frame)",
+        "detail": "roop.processors.frame.face_swapper",
+        "documentation": {}
+    },
+    {
+        "label": "process_frames",
+        "kind": 2,
+        "importPath": "roop.processors.frame.face_swapper",
+        "description": "roop.processors.frame.face_swapper",
+        "peekOfCode": "def process_frames(source_path: str, temp_frame_paths: List[str], update: Callable[[], None]) -> None:\n    source_face = get_one_face(cv2.imread(source_path))\n    reference_face = None if roop.globals.many_faces else get_face_reference()\n    for temp_frame_path in temp_frame_paths:\n        temp_frame = cv2.imread(temp_frame_path)\n        result = process_frame(source_face, reference_face, temp_frame)\n        cv2.imwrite(temp_frame_path, result)\n        if update:\n            update()\ndef process_image(source_path: str, target_path: str, output_path: str) -> None:",
+        "detail": "roop.processors.frame.face_swapper",
+        "documentation": {}
+    },
+    {
+        "label": "process_image",
+        "kind": 2,
+        "importPath": "roop.processors.frame.face_swapper",
+        "description": "roop.processors.frame.face_swapper",
+        "peekOfCode": "def process_image(source_path: str, target_path: str, output_path: str) -> None:\n    source_face = get_one_face(cv2.imread(source_path))\n    target_frame = cv2.imread(target_path)\n    reference_face = None if roop.globals.many_faces else get_one_face(target_frame, roop.globals.reference_face_position)\n    result = process_frame(source_face, reference_face, target_frame)\n    cv2.imwrite(output_path, result)\ndef process_video(source_path: str, temp_frame_paths: List[str]) -> None:\n    if not roop.globals.many_faces and not get_face_reference():\n        reference_frame = cv2.imread(temp_frame_paths[roop.globals.reference_frame_number])\n        reference_face = get_one_face(reference_frame, roop.globals.reference_face_position)",
+        "detail": "roop.processors.frame.face_swapper",
+        "documentation": {}
+    },
+    {
+        "label": "process_video",
+        "kind": 2,
+        "importPath": "roop.processors.frame.face_swapper",
+        "description": "roop.processors.frame.face_swapper",
+        "peekOfCode": "def process_video(source_path: str, temp_frame_paths: List[str]) -> None:\n    if not roop.globals.many_faces and not get_face_reference():\n        reference_frame = cv2.imread(temp_frame_paths[roop.globals.reference_frame_number])\n        reference_face = get_one_face(reference_frame, roop.globals.reference_face_position)\n        set_face_reference(reference_face)\n    roop.processors.frame.core.process_video(source_path, temp_frame_paths, process_frames)",
+        "detail": "roop.processors.frame.face_swapper",
+        "documentation": {}
+    },
+    {
+        "label": "FACE_SWAPPER",
+        "kind": 5,
+        "importPath": "roop.processors.frame.face_swapper",
+        "description": "roop.processors.frame.face_swapper",
+        "peekOfCode": "FACE_SWAPPER = None\nTHREAD_LOCK = threading.Lock()\nNAME = 'ROOP.FACE-SWAPPER'\ndef get_face_swapper() -> Any:\n    global FACE_SWAPPER\n    with THREAD_LOCK:\n        if FACE_SWAPPER is None:\n            model_path = resolve_relative_path('../models/inswapper_128.onnx')\n            FACE_SWAPPER = insightface.model_zoo.get_model(model_path, providers=roop.globals.execution_providers)\n    return FACE_SWAPPER",
+        "detail": "roop.processors.frame.face_swapper",
+        "documentation": {}
+    },
+    {
+        "label": "THREAD_LOCK",
+        "kind": 5,
+        "importPath": "roop.processors.frame.face_swapper",
+        "description": "roop.processors.frame.face_swapper",
+        "peekOfCode": "THREAD_LOCK = threading.Lock()\nNAME = 'ROOP.FACE-SWAPPER'\ndef get_face_swapper() -> Any:\n    global FACE_SWAPPER\n    with THREAD_LOCK:\n        if FACE_SWAPPER is None:\n            model_path = resolve_relative_path('../models/inswapper_128.onnx')\n            FACE_SWAPPER = insightface.model_zoo.get_model(model_path, providers=roop.globals.execution_providers)\n    return FACE_SWAPPER\ndef clear_face_swapper() -> None:",
+        "detail": "roop.processors.frame.face_swapper",
+        "documentation": {}
+    },
+    {
+        "label": "NAME",
+        "kind": 5,
+        "importPath": "roop.processors.frame.face_swapper",
+        "description": "roop.processors.frame.face_swapper",
+        "peekOfCode": "NAME = 'ROOP.FACE-SWAPPER'\ndef get_face_swapper() -> Any:\n    global FACE_SWAPPER\n    with THREAD_LOCK:\n        if FACE_SWAPPER is None:\n            model_path = resolve_relative_path('../models/inswapper_128.onnx')\n            FACE_SWAPPER = insightface.model_zoo.get_model(model_path, providers=roop.globals.execution_providers)\n    return FACE_SWAPPER\ndef clear_face_swapper() -> None:\n    global FACE_SWAPPER",
+        "detail": "roop.processors.frame.face_swapper",
+        "documentation": {}
+    },
+    {
+        "label": "get_video_frame",
+        "kind": 2,
+        "importPath": "roop.capturer",
+        "description": "roop.capturer",
+        "peekOfCode": "def get_video_frame(video_path: str, frame_number: int = 0) -> Optional[Frame]:\n    capture = cv2.VideoCapture(video_path)\n    frame_total = capture.get(cv2.CAP_PROP_FRAME_COUNT)\n    capture.set(cv2.CAP_PROP_POS_FRAMES, min(frame_total, frame_number - 1))\n    has_frame, frame = capture.read()\n    capture.release()\n    if has_frame:\n        return frame\n    return None\ndef get_video_frame_total(video_path: str) -> int:",
+        "detail": "roop.capturer",
+        "documentation": {}
+    },
+    {
+        "label": "get_video_frame_total",
+        "kind": 2,
+        "importPath": "roop.capturer",
+        "description": "roop.capturer",
+        "peekOfCode": "def get_video_frame_total(video_path: str) -> int:\n    capture = cv2.VideoCapture(video_path)\n    video_frame_total = int(capture.get(cv2.CAP_PROP_FRAME_COUNT))\n    capture.release()\n    return video_frame_total",
+        "detail": "roop.capturer",
+        "documentation": {}
+    },
+    {
+        "label": "parse_args",
+        "kind": 2,
+        "importPath": "roop.core",
+        "description": "roop.core",
+        "peekOfCode": "def parse_args(source_path, target_path, output_path) -> None:\n    # signal.signal(signal.SIGINT, lambda signal_number, frame: destroy())\n    program = argparse.ArgumentParser(formatter_class=lambda prog: argparse.HelpFormatter(prog, max_help_position=100))\n    program.add_argument('-s', '--source', help='select an source image', dest='source_path')\n    program.add_argument('-t', '--target', help='select an target image or video', dest='target_path')\n    program.add_argument('-o', '--output', help='select output file or directory', dest='output_path')\n    program.add_argument('--frame-processor', help='frame processors (choices: face_swapper, face_enhancer, ...)', dest='frame_processor', default=['face_swapper'], nargs='+')\n    program.add_argument('--keep-fps', help='keep target fps', dest='keep_fps', action='store_true')\n    program.add_argument('--keep-frames', help='keep temporary frames', dest='keep_frames', action='store_true')\n    program.add_argument('--skip-audio', help='skip target audio', dest='skip_audio', action='store_true')",
+        "detail": "roop.core",
+        "documentation": {}
+    },
+    {
+        "label": "encode_execution_providers",
+        "kind": 2,
+        "importPath": "roop.core",
+        "description": "roop.core",
+        "peekOfCode": "def encode_execution_providers(execution_providers: List[str]) -> List[str]:\n    return [execution_provider.replace('ExecutionProvider', '').lower() for execution_provider in execution_providers]\ndef decode_execution_providers(execution_providers: List[str]) -> List[str]:\n    return [provider for provider, encoded_execution_provider in zip(onnxruntime.get_available_providers(), encode_execution_providers(onnxruntime.get_available_providers()))\n            if any(execution_provider in encoded_execution_provider for execution_provider in execution_providers)]\ndef suggest_execution_providers() -> List[str]:\n    return encode_execution_providers(onnxruntime.get_available_providers())\ndef suggest_execution_threads() -> int:\n    if 'CUDAExecutionProvider' in onnxruntime.get_available_providers():\n        return 8",
+        "detail": "roop.core",
+        "documentation": {}
+    },
+    {
+        "label": "decode_execution_providers",
+        "kind": 2,
+        "importPath": "roop.core",
+        "description": "roop.core",
+        "peekOfCode": "def decode_execution_providers(execution_providers: List[str]) -> List[str]:\n    return [provider for provider, encoded_execution_provider in zip(onnxruntime.get_available_providers(), encode_execution_providers(onnxruntime.get_available_providers()))\n            if any(execution_provider in encoded_execution_provider for execution_provider in execution_providers)]\ndef suggest_execution_providers() -> List[str]:\n    return encode_execution_providers(onnxruntime.get_available_providers())\ndef suggest_execution_threads() -> int:\n    if 'CUDAExecutionProvider' in onnxruntime.get_available_providers():\n        return 8\n    return 1\ndef limit_resources() -> None:",
+        "detail": "roop.core",
+        "documentation": {}
+    },
+    {
+        "label": "suggest_execution_providers",
+        "kind": 2,
+        "importPath": "roop.core",
+        "description": "roop.core",
+        "peekOfCode": "def suggest_execution_providers() -> List[str]:\n    return encode_execution_providers(onnxruntime.get_available_providers())\ndef suggest_execution_threads() -> int:\n    if 'CUDAExecutionProvider' in onnxruntime.get_available_providers():\n        return 8\n    return 1\ndef limit_resources() -> None:\n    # prevent tensorflow memory leak\n    gpus = tensorflow.config.experimental.list_physical_devices('GPU')\n    for gpu in gpus:",
+        "detail": "roop.core",
+        "documentation": {}
+    },
+    {
+        "label": "suggest_execution_threads",
+        "kind": 2,
+        "importPath": "roop.core",
+        "description": "roop.core",
+        "peekOfCode": "def suggest_execution_threads() -> int:\n    if 'CUDAExecutionProvider' in onnxruntime.get_available_providers():\n        return 8\n    return 1\ndef limit_resources() -> None:\n    # prevent tensorflow memory leak\n    gpus = tensorflow.config.experimental.list_physical_devices('GPU')\n    for gpu in gpus:\n        tensorflow.config.experimental.set_virtual_device_configuration(gpu, [\n            tensorflow.config.experimental.VirtualDeviceConfiguration(memory_limit=1024)",
+        "detail": "roop.core",
+        "documentation": {}
+    },
+    {
+        "label": "limit_resources",
+        "kind": 2,
+        "importPath": "roop.core",
+        "description": "roop.core",
+        "peekOfCode": "def limit_resources() -> None:\n    # prevent tensorflow memory leak\n    gpus = tensorflow.config.experimental.list_physical_devices('GPU')\n    for gpu in gpus:\n        tensorflow.config.experimental.set_virtual_device_configuration(gpu, [\n            tensorflow.config.experimental.VirtualDeviceConfiguration(memory_limit=1024)\n        ])\n    # limit memory usage\n    if roop.globals.max_memory:\n        memory = roop.globals.max_memory * 1024 ** 3",
+        "detail": "roop.core",
+        "documentation": {}
+    },
+    {
+        "label": "pre_check",
+        "kind": 2,
+        "importPath": "roop.core",
+        "description": "roop.core",
+        "peekOfCode": "def pre_check() -> bool:\n    if sys.version_info < (3, 9):\n        update_status('Python version is not supported - please upgrade to 3.9 or higher.')\n        return False\n    if not shutil.which('ffmpeg'):\n        update_status('ffmpeg is not installed.')\n        return False\n    return True\ndef update_status(message: str, scope: str = 'ROOP.CORE') -> None:\n    print(f'[{scope}] {message}')",
+        "detail": "roop.core",
+        "documentation": {}
+    },
+    {
+        "label": "update_status",
+        "kind": 2,
+        "importPath": "roop.core",
+        "description": "roop.core",
+        "peekOfCode": "def update_status(message: str, scope: str = 'ROOP.CORE') -> None:\n    print(f'[{scope}] {message}')\n    if not roop.globals.headless:\n        ui.update_status(message)\ndef start() -> None:\n    for frame_processor in get_frame_processors_modules(roop.globals.frame_processors):\n        if not frame_processor.pre_start():\n            return\n    # process image to image\n    if has_image_extension(roop.globals.target_path):",
+        "detail": "roop.core",
+        "documentation": {}
+    },
+    {
+        "label": "start",
+        "kind": 2,
+        "importPath": "roop.core",
+        "description": "roop.core",
+        "peekOfCode": "def start() -> None:\n    for frame_processor in get_frame_processors_modules(roop.globals.frame_processors):\n        if not frame_processor.pre_start():\n            return\n    # process image to image\n    if has_image_extension(roop.globals.target_path):\n        if predict_image(roop.globals.target_path):\n            destroy()\n        shutil.copy2(roop.globals.target_path, roop.globals.output_path)\n        # process frame",
+        "detail": "roop.core",
+        "documentation": {}
+    },
+    {
+        "label": "destroy",
+        "kind": 2,
+        "importPath": "roop.core",
+        "description": "roop.core",
+        "peekOfCode": "def destroy() -> None:\n    if roop.globals.target_path:\n        clean_temp(roop.globals.target_path)\n    sys.exit()\ndef run(s, t, o) -> None:\n    parse_args(s, t, o)\n    if not pre_check():\n        return\n    for frame_processor in get_frame_processors_modules(roop.globals.frame_processors):\n        if not frame_processor.pre_check():",
+        "detail": "roop.core",
+        "documentation": {}
+    },
+    {
+        "label": "run",
+        "kind": 2,
+        "importPath": "roop.core",
+        "description": "roop.core",
+        "peekOfCode": "def run(s, t, o) -> None:\n    parse_args(s, t, o)\n    if not pre_check():\n        return\n    for frame_processor in get_frame_processors_modules(roop.globals.frame_processors):\n        if not frame_processor.pre_check():\n            return\n    limit_resources()\n    if roop.globals.headless:\n        start()",
+        "detail": "roop.core",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ['TF_CPP_MIN_LOG_LEVEL']",
+        "kind": 5,
+        "importPath": "roop.core",
+        "description": "roop.core",
+        "peekOfCode": "os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'\nimport warnings\nfrom typing import List\nimport platform\nimport signal\nimport shutil\nimport argparse\nimport onnxruntime\nimport tensorflow\nimport roop.globals",
+        "detail": "roop.core",
+        "documentation": {}
+    },
+    {
+        "label": "get_face_analyser",
+        "kind": 2,
+        "importPath": "roop.face_analyser",
+        "description": "roop.face_analyser",
+        "peekOfCode": "def get_face_analyser() -> Any:\n    global FACE_ANALYSER\n    with THREAD_LOCK:\n        if FACE_ANALYSER is None:\n            FACE_ANALYSER = insightface.app.FaceAnalysis(name='buffalo_l', providers=roop.globals.execution_providers)\n            FACE_ANALYSER.prepare(ctx_id=0)\n    return FACE_ANALYSER\ndef clear_face_analyser() -> Any:\n    global FACE_ANALYSER\n    FACE_ANALYSER = None",
+        "detail": "roop.face_analyser",
+        "documentation": {}
+    },
+    {
+        "label": "clear_face_analyser",
+        "kind": 2,
+        "importPath": "roop.face_analyser",
+        "description": "roop.face_analyser",
+        "peekOfCode": "def clear_face_analyser() -> Any:\n    global FACE_ANALYSER\n    FACE_ANALYSER = None\ndef get_one_face(frame: Frame, position: int = 0) -> Optional[Face]:\n    many_faces = get_many_faces(frame)\n    if many_faces:\n        try:\n            return many_faces[position]\n        except IndexError:\n            return many_faces[-1]",
+        "detail": "roop.face_analyser",
+        "documentation": {}
+    },
+    {
+        "label": "get_one_face",
+        "kind": 2,
+        "importPath": "roop.face_analyser",
+        "description": "roop.face_analyser",
+        "peekOfCode": "def get_one_face(frame: Frame, position: int = 0) -> Optional[Face]:\n    many_faces = get_many_faces(frame)\n    if many_faces:\n        try:\n            return many_faces[position]\n        except IndexError:\n            return many_faces[-1]\n    return None\ndef get_many_faces(frame: Frame) -> Optional[List[Face]]:\n    try:",
+        "detail": "roop.face_analyser",
+        "documentation": {}
+    },
+    {
+        "label": "get_many_faces",
+        "kind": 2,
+        "importPath": "roop.face_analyser",
+        "description": "roop.face_analyser",
+        "peekOfCode": "def get_many_faces(frame: Frame) -> Optional[List[Face]]:\n    try:\n        return get_face_analyser().get(frame)\n    except ValueError:\n        return None\ndef find_similar_face(frame: Frame, reference_face: Face) -> Optional[Face]:\n    many_faces = get_many_faces(frame)\n    if many_faces:\n        for face in many_faces:\n            if hasattr(face, 'normed_embedding') and hasattr(reference_face, 'normed_embedding'):",
+        "detail": "roop.face_analyser",
+        "documentation": {}
+    },
+    {
+        "label": "find_similar_face",
+        "kind": 2,
+        "importPath": "roop.face_analyser",
+        "description": "roop.face_analyser",
+        "peekOfCode": "def find_similar_face(frame: Frame, reference_face: Face) -> Optional[Face]:\n    many_faces = get_many_faces(frame)\n    if many_faces:\n        for face in many_faces:\n            if hasattr(face, 'normed_embedding') and hasattr(reference_face, 'normed_embedding'):\n                distance = numpy.sum(numpy.square(face.normed_embedding - reference_face.normed_embedding))\n                if distance < roop.globals.similar_face_distance:\n                    return face\n    return None",
+        "detail": "roop.face_analyser",
+        "documentation": {}
+    },
+    {
+        "label": "FACE_ANALYSER",
+        "kind": 5,
+        "importPath": "roop.face_analyser",
+        "description": "roop.face_analyser",
+        "peekOfCode": "FACE_ANALYSER = None\nTHREAD_LOCK = threading.Lock()\ndef get_face_analyser() -> Any:\n    global FACE_ANALYSER\n    with THREAD_LOCK:\n        if FACE_ANALYSER is None:\n            FACE_ANALYSER = insightface.app.FaceAnalysis(name='buffalo_l', providers=roop.globals.execution_providers)\n            FACE_ANALYSER.prepare(ctx_id=0)\n    return FACE_ANALYSER\ndef clear_face_analyser() -> Any:",
+        "detail": "roop.face_analyser",
+        "documentation": {}
+    },
+    {
+        "label": "THREAD_LOCK",
+        "kind": 5,
+        "importPath": "roop.face_analyser",
+        "description": "roop.face_analyser",
+        "peekOfCode": "THREAD_LOCK = threading.Lock()\ndef get_face_analyser() -> Any:\n    global FACE_ANALYSER\n    with THREAD_LOCK:\n        if FACE_ANALYSER is None:\n            FACE_ANALYSER = insightface.app.FaceAnalysis(name='buffalo_l', providers=roop.globals.execution_providers)\n            FACE_ANALYSER.prepare(ctx_id=0)\n    return FACE_ANALYSER\ndef clear_face_analyser() -> Any:\n    global FACE_ANALYSER",
+        "detail": "roop.face_analyser",
+        "documentation": {}
+    },
+    {
+        "label": "get_face_reference",
+        "kind": 2,
+        "importPath": "roop.face_reference",
+        "description": "roop.face_reference",
+        "peekOfCode": "def get_face_reference() -> Optional[Face]:\n    return FACE_REFERENCE\ndef set_face_reference(face: Face) -> None:\n    global FACE_REFERENCE\n    FACE_REFERENCE = face\ndef clear_face_reference() -> None:\n    global FACE_REFERENCE\n    FACE_REFERENCE = None",
+        "detail": "roop.face_reference",
+        "documentation": {}
+    },
+    {
+        "label": "set_face_reference",
+        "kind": 2,
+        "importPath": "roop.face_reference",
+        "description": "roop.face_reference",
+        "peekOfCode": "def set_face_reference(face: Face) -> None:\n    global FACE_REFERENCE\n    FACE_REFERENCE = face\ndef clear_face_reference() -> None:\n    global FACE_REFERENCE\n    FACE_REFERENCE = None",
+        "detail": "roop.face_reference",
+        "documentation": {}
+    },
+    {
+        "label": "clear_face_reference",
+        "kind": 2,
+        "importPath": "roop.face_reference",
+        "description": "roop.face_reference",
+        "peekOfCode": "def clear_face_reference() -> None:\n    global FACE_REFERENCE\n    FACE_REFERENCE = None",
+        "detail": "roop.face_reference",
+        "documentation": {}
+    },
+    {
+        "label": "FACE_REFERENCE",
+        "kind": 5,
+        "importPath": "roop.face_reference",
+        "description": "roop.face_reference",
+        "peekOfCode": "FACE_REFERENCE = None\ndef get_face_reference() -> Optional[Face]:\n    return FACE_REFERENCE\ndef set_face_reference(face: Face) -> None:\n    global FACE_REFERENCE\n    FACE_REFERENCE = face\ndef clear_face_reference() -> None:\n    global FACE_REFERENCE\n    FACE_REFERENCE = None",
+        "detail": "roop.face_reference",
+        "documentation": {}
+    },
+    {
+        "label": "name",
+        "kind": 5,
+        "importPath": "roop.metadata",
+        "description": "roop.metadata",
+        "peekOfCode": "name = 'roop'\nversion = '1.3.2'",
+        "detail": "roop.metadata",
+        "documentation": {}
+    },
+    {
+        "label": "version",
+        "kind": 5,
+        "importPath": "roop.metadata",
+        "description": "roop.metadata",
+        "peekOfCode": "version = '1.3.2'",
+        "detail": "roop.metadata",
+        "documentation": {}
+    },
+    {
+        "label": "get_predictor",
+        "kind": 2,
+        "importPath": "roop.predictor",
+        "description": "roop.predictor",
+        "peekOfCode": "def get_predictor() -> Model:\n    global PREDICTOR\n    with THREAD_LOCK:\n        if PREDICTOR is None:\n            PREDICTOR = opennsfw2.make_open_nsfw_model()\n    return PREDICTOR\ndef clear_predictor() -> None:\n    global PREDICTOR\n    PREDICTOR = None\ndef predict_frame(target_frame: Frame) -> bool:",
+        "detail": "roop.predictor",
+        "documentation": {}
+    },
+    {
+        "label": "clear_predictor",
+        "kind": 2,
+        "importPath": "roop.predictor",
+        "description": "roop.predictor",
+        "peekOfCode": "def clear_predictor() -> None:\n    global PREDICTOR\n    PREDICTOR = None\ndef predict_frame(target_frame: Frame) -> bool:\n    image = Image.fromarray(target_frame)\n    image = opennsfw2.preprocess_image(image, opennsfw2.Preprocessing.YAHOO)\n    views = numpy.expand_dims(image, axis=0)\n    _, probability = get_predictor().predict(views)[0]\n    return probability > MAX_PROBABILITY\ndef predict_image(target_path: str) -> bool:",
+        "detail": "roop.predictor",
+        "documentation": {}
+    },
+    {
+        "label": "predict_frame",
+        "kind": 2,
+        "importPath": "roop.predictor",
+        "description": "roop.predictor",
+        "peekOfCode": "def predict_frame(target_frame: Frame) -> bool:\n    image = Image.fromarray(target_frame)\n    image = opennsfw2.preprocess_image(image, opennsfw2.Preprocessing.YAHOO)\n    views = numpy.expand_dims(image, axis=0)\n    _, probability = get_predictor().predict(views)[0]\n    return probability > MAX_PROBABILITY\ndef predict_image(target_path: str) -> bool:\n    return opennsfw2.predict_image(target_path) > MAX_PROBABILITY\ndef predict_video(target_path: str) -> bool:\n    _, probabilities = opennsfw2.predict_video_frames(video_path=target_path, frame_interval=100)",
+        "detail": "roop.predictor",
+        "documentation": {}
+    },
+    {
+        "label": "predict_image",
+        "kind": 2,
+        "importPath": "roop.predictor",
+        "description": "roop.predictor",
+        "peekOfCode": "def predict_image(target_path: str) -> bool:\n    return opennsfw2.predict_image(target_path) > MAX_PROBABILITY\ndef predict_video(target_path: str) -> bool:\n    _, probabilities = opennsfw2.predict_video_frames(video_path=target_path, frame_interval=100)\n    return any(probability > MAX_PROBABILITY for probability in probabilities)",
+        "detail": "roop.predictor",
+        "documentation": {}
+    },
+    {
+        "label": "predict_video",
+        "kind": 2,
+        "importPath": "roop.predictor",
+        "description": "roop.predictor",
+        "peekOfCode": "def predict_video(target_path: str) -> bool:\n    _, probabilities = opennsfw2.predict_video_frames(video_path=target_path, frame_interval=100)\n    return any(probability > MAX_PROBABILITY for probability in probabilities)",
+        "detail": "roop.predictor",
+        "documentation": {}
+    },
+    {
+        "label": "PREDICTOR",
+        "kind": 5,
+        "importPath": "roop.predictor",
+        "description": "roop.predictor",
+        "peekOfCode": "PREDICTOR = None\nTHREAD_LOCK = threading.Lock()\nMAX_PROBABILITY = 0.85\ndef get_predictor() -> Model:\n    global PREDICTOR\n    with THREAD_LOCK:\n        if PREDICTOR is None:\n            PREDICTOR = opennsfw2.make_open_nsfw_model()\n    return PREDICTOR\ndef clear_predictor() -> None:",
+        "detail": "roop.predictor",
+        "documentation": {}
+    },
+    {
+        "label": "THREAD_LOCK",
+        "kind": 5,
+        "importPath": "roop.predictor",
+        "description": "roop.predictor",
+        "peekOfCode": "THREAD_LOCK = threading.Lock()\nMAX_PROBABILITY = 0.85\ndef get_predictor() -> Model:\n    global PREDICTOR\n    with THREAD_LOCK:\n        if PREDICTOR is None:\n            PREDICTOR = opennsfw2.make_open_nsfw_model()\n    return PREDICTOR\ndef clear_predictor() -> None:\n    global PREDICTOR",
+        "detail": "roop.predictor",
+        "documentation": {}
+    },
+    {
+        "label": "MAX_PROBABILITY",
+        "kind": 5,
+        "importPath": "roop.predictor",
+        "description": "roop.predictor",
+        "peekOfCode": "MAX_PROBABILITY = 0.85\ndef get_predictor() -> Model:\n    global PREDICTOR\n    with THREAD_LOCK:\n        if PREDICTOR is None:\n            PREDICTOR = opennsfw2.make_open_nsfw_model()\n    return PREDICTOR\ndef clear_predictor() -> None:\n    global PREDICTOR\n    PREDICTOR = None",
+        "detail": "roop.predictor",
+        "documentation": {}
+    },
+    {
+        "label": "Face",
+        "kind": 5,
+        "importPath": "roop.typing",
+        "description": "roop.typing",
+        "peekOfCode": "Face = Face\nFrame = numpy.ndarray[Any, Any]",
+        "detail": "roop.typing",
+        "documentation": {}
+    },
+    {
+        "label": "Frame",
+        "kind": 5,
+        "importPath": "roop.typing",
+        "description": "roop.typing",
+        "peekOfCode": "Frame = numpy.ndarray[Any, Any]",
+        "detail": "roop.typing",
+        "documentation": {}
+    },
+    {
+        "label": "CTk",
+        "kind": 6,
+        "importPath": "roop.ui",
+        "description": "roop.ui",
+        "peekOfCode": "class CTk(ctk.CTk, TkinterDnD.DnDWrapper):\n    def __init__(self, *args: Any, **kwargs: Any) -> None:\n        super().__init__(*args, **kwargs)\n        self.TkdndVersion = TkinterDnD._require(self)\ndef init(start: Callable[[], None], destroy: Callable[[], None]) -> ctk.CTk:\n    global ROOT, PREVIEW\n    ROOT = create_root(start, destroy)\n    PREVIEW = create_preview(ROOT)\n    return ROOT\ndef create_root(start: Callable[[], None], destroy: Callable[[], None]) -> ctk.CTk:",
+        "detail": "roop.ui",
+        "documentation": {}
+    },
+    {
+        "label": "init",
+        "kind": 2,
+        "importPath": "roop.ui",
+        "description": "roop.ui",
+        "peekOfCode": "def init(start: Callable[[], None], destroy: Callable[[], None]) -> ctk.CTk:\n    global ROOT, PREVIEW\n    ROOT = create_root(start, destroy)\n    PREVIEW = create_preview(ROOT)\n    return ROOT\ndef create_root(start: Callable[[], None], destroy: Callable[[], None]) -> ctk.CTk:\n    global source_label, target_label, status_label\n    ctk.deactivate_automatic_dpi_awareness()\n    ctk.set_appearance_mode('system')\n    ctk.set_default_color_theme(resolve_relative_path('ui.json'))",
+        "detail": "roop.ui",
+        "documentation": {}
+    },
+    {
+        "label": "create_root",
+        "kind": 2,
+        "importPath": "roop.ui",
+        "description": "roop.ui",
+        "peekOfCode": "def create_root(start: Callable[[], None], destroy: Callable[[], None]) -> ctk.CTk:\n    global source_label, target_label, status_label\n    ctk.deactivate_automatic_dpi_awareness()\n    ctk.set_appearance_mode('system')\n    ctk.set_default_color_theme(resolve_relative_path('ui.json'))\n    root = CTk()\n    root.minsize(ROOT_WIDTH, ROOT_HEIGHT)\n    root.title(f'{roop.metadata.name} {roop.metadata.version}')\n    root.configure()\n    root.protocol('WM_DELETE_WINDOW', lambda: destroy())",
+        "detail": "roop.ui",
+        "documentation": {}
+    },
+    {
+        "label": "create_preview",
+        "kind": 2,
+        "importPath": "roop.ui",
+        "description": "roop.ui",
+        "peekOfCode": "def create_preview(parent: ctk.CTkToplevel) -> ctk.CTkToplevel:\n    global preview_label, preview_slider\n    preview = ctk.CTkToplevel(parent)\n    preview.withdraw()\n    preview.configure()\n    preview.protocol('WM_DELETE_WINDOW', lambda: toggle_preview())\n    preview.resizable(width=False, height=False)\n    preview_label = ctk.CTkLabel(preview, text=None)\n    preview_label.pack(fill='both', expand=True)\n    preview_slider = ctk.CTkSlider(preview, from_=0, to=0, command=lambda frame_value: update_preview(frame_value))",
+        "detail": "roop.ui",
+        "documentation": {}
+    },
+    {
+        "label": "update_status",
+        "kind": 2,
+        "importPath": "roop.ui",
+        "description": "roop.ui",
+        "peekOfCode": "def update_status(text: str) -> None:\n    status_label.configure(text=text)\n    ROOT.update()\ndef select_source_path(source_path: Optional[str] = None) -> None:\n    global RECENT_DIRECTORY_SOURCE\n    if PREVIEW:\n        PREVIEW.withdraw()\n    if source_path is None:\n        source_path = ctk.filedialog.askopenfilename(title='select an source image', initialdir=RECENT_DIRECTORY_SOURCE)\n    if is_image(source_path):",
+        "detail": "roop.ui",
+        "documentation": {}
+    },
+    {
+        "label": "select_source_path",
+        "kind": 2,
+        "importPath": "roop.ui",
+        "description": "roop.ui",
+        "peekOfCode": "def select_source_path(source_path: Optional[str] = None) -> None:\n    global RECENT_DIRECTORY_SOURCE\n    if PREVIEW:\n        PREVIEW.withdraw()\n    if source_path is None:\n        source_path = ctk.filedialog.askopenfilename(title='select an source image', initialdir=RECENT_DIRECTORY_SOURCE)\n    if is_image(source_path):\n        roop.globals.source_path = source_path\n        RECENT_DIRECTORY_SOURCE = os.path.dirname(roop.globals.source_path)\n        image = render_image_preview(roop.globals.source_path, (200, 200))",
+        "detail": "roop.ui",
+        "documentation": {}
+    },
+    {
+        "label": "select_target_path",
+        "kind": 2,
+        "importPath": "roop.ui",
+        "description": "roop.ui",
+        "peekOfCode": "def select_target_path(target_path: Optional[str] = None) -> None:\n    global RECENT_DIRECTORY_TARGET\n    if PREVIEW:\n        PREVIEW.withdraw()\n    clear_face_reference()\n    if target_path is None:\n        target_path = ctk.filedialog.askopenfilename(title='select an target image or video', initialdir=RECENT_DIRECTORY_TARGET)\n    if is_image(target_path):\n        roop.globals.target_path = target_path\n        RECENT_DIRECTORY_TARGET = os.path.dirname(roop.globals.target_path)",
+        "detail": "roop.ui",
+        "documentation": {}
+    },
+    {
+        "label": "select_output_path",
+        "kind": 2,
+        "importPath": "roop.ui",
+        "description": "roop.ui",
+        "peekOfCode": "def select_output_path(start: Callable[[], None]) -> None:\n    global RECENT_DIRECTORY_OUTPUT\n    if is_image(roop.globals.target_path):\n        output_path = ctk.filedialog.asksaveasfilename(title='save image output file', defaultextension='.png', initialfile='output.png', initialdir=RECENT_DIRECTORY_OUTPUT)\n    elif is_video(roop.globals.target_path):\n        output_path = ctk.filedialog.asksaveasfilename(title='save video output file', defaultextension='.mp4', initialfile='output.mp4', initialdir=RECENT_DIRECTORY_OUTPUT)\n    else:\n        output_path = None\n    if output_path:\n        roop.globals.output_path = output_path",
+        "detail": "roop.ui",
+        "documentation": {}
+    },
+    {
+        "label": "render_image_preview",
+        "kind": 2,
+        "importPath": "roop.ui",
+        "description": "roop.ui",
+        "peekOfCode": "def render_image_preview(image_path: str, size: Tuple[int, int]) -> ctk.CTkImage:\n    image = Image.open(image_path)\n    if size:\n        image = ImageOps.fit(image, size, Image.LANCZOS)\n    return ctk.CTkImage(image, size=image.size)\ndef render_video_preview(video_path: str, size: Tuple[int, int], frame_number: int = 0) -> ctk.CTkImage:\n    capture = cv2.VideoCapture(video_path)\n    if frame_number:\n        capture.set(cv2.CAP_PROP_POS_FRAMES, frame_number)\n    has_frame, frame = capture.read()",
+        "detail": "roop.ui",
+        "documentation": {}
+    },
+    {
+        "label": "render_video_preview",
+        "kind": 2,
+        "importPath": "roop.ui",
+        "description": "roop.ui",
+        "peekOfCode": "def render_video_preview(video_path: str, size: Tuple[int, int], frame_number: int = 0) -> ctk.CTkImage:\n    capture = cv2.VideoCapture(video_path)\n    if frame_number:\n        capture.set(cv2.CAP_PROP_POS_FRAMES, frame_number)\n    has_frame, frame = capture.read()\n    if has_frame:\n        image = Image.fromarray(cv2.cvtColor(frame, cv2.COLOR_BGR2RGB))\n        if size:\n            image = ImageOps.fit(image, size, Image.LANCZOS)\n        return ctk.CTkImage(image, size=image.size)",
+        "detail": "roop.ui",
+        "documentation": {}
+    },
+    {
+        "label": "toggle_preview",
+        "kind": 2,
+        "importPath": "roop.ui",
+        "description": "roop.ui",
+        "peekOfCode": "def toggle_preview() -> None:\n    if PREVIEW.state() == 'normal':\n        PREVIEW.unbind('<Right>')\n        PREVIEW.unbind('<Left>')\n        PREVIEW.withdraw()\n        clear_predictor()\n    elif roop.globals.source_path and roop.globals.target_path:\n        init_preview()\n        update_preview(roop.globals.reference_frame_number)\n        PREVIEW.deiconify()",
+        "detail": "roop.ui",
+        "documentation": {}
+    },
+    {
+        "label": "init_preview",
+        "kind": 2,
+        "importPath": "roop.ui",
+        "description": "roop.ui",
+        "peekOfCode": "def init_preview() -> None:\n    PREVIEW.title('Preview [ ↕ Reference face ]')\n    if is_image(roop.globals.target_path):\n        preview_slider.pack_forget()\n    if is_video(roop.globals.target_path):\n        video_frame_total = get_video_frame_total(roop.globals.target_path)\n        if video_frame_total > 0:\n            PREVIEW.title('Preview [ ↕ Reference face ] [ ↔ Frame number ]')\n            PREVIEW.bind('<Right>', lambda event: update_frame(int(video_frame_total / 20)))\n            PREVIEW.bind('<Left>', lambda event: update_frame(int(video_frame_total / -20)))",
+        "detail": "roop.ui",
+        "documentation": {}
+    },
+    {
+        "label": "update_preview",
+        "kind": 2,
+        "importPath": "roop.ui",
+        "description": "roop.ui",
+        "peekOfCode": "def update_preview(frame_number: int = 0) -> None:\n    if roop.globals.source_path and roop.globals.target_path:\n        temp_frame = get_video_frame(roop.globals.target_path, frame_number)\n        if predict_frame(temp_frame):\n            sys.exit()\n        source_face = get_one_face(cv2.imread(roop.globals.source_path))\n        if not get_face_reference():\n            reference_frame = get_video_frame(roop.globals.target_path, roop.globals.reference_frame_number)\n            reference_face = get_one_face(reference_frame, roop.globals.reference_face_position)\n            set_face_reference(reference_face)",
+        "detail": "roop.ui",
+        "documentation": {}
+    },
+    {
+        "label": "update_face_reference",
+        "kind": 2,
+        "importPath": "roop.ui",
+        "description": "roop.ui",
+        "peekOfCode": "def update_face_reference(steps: int) -> None:\n    clear_face_reference()\n    reference_frame_number = int(preview_slider.get())\n    roop.globals.reference_face_position += steps\n    roop.globals.reference_frame_number = reference_frame_number\n    update_preview(reference_frame_number)\ndef update_frame(steps: int) -> None:\n    frame_number = preview_slider.get() + steps\n    preview_slider.set(frame_number)\n    update_preview(preview_slider.get())",
+        "detail": "roop.ui",
+        "documentation": {}
+    },
+    {
+        "label": "update_frame",
+        "kind": 2,
+        "importPath": "roop.ui",
+        "description": "roop.ui",
+        "peekOfCode": "def update_frame(steps: int) -> None:\n    frame_number = preview_slider.get() + steps\n    preview_slider.set(frame_number)\n    update_preview(preview_slider.get())",
+        "detail": "roop.ui",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT",
+        "kind": 5,
+        "importPath": "roop.ui",
+        "description": "roop.ui",
+        "peekOfCode": "ROOT = None\nROOT_HEIGHT = 700\nROOT_WIDTH = 600\nPREVIEW = None\nPREVIEW_MAX_HEIGHT = 700\nPREVIEW_MAX_WIDTH = 1200\nRECENT_DIRECTORY_SOURCE = None\nRECENT_DIRECTORY_TARGET = None\nRECENT_DIRECTORY_OUTPUT = None\npreview_label = None",
+        "detail": "roop.ui",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_HEIGHT",
+        "kind": 5,
+        "importPath": "roop.ui",
+        "description": "roop.ui",
+        "peekOfCode": "ROOT_HEIGHT = 700\nROOT_WIDTH = 600\nPREVIEW = None\nPREVIEW_MAX_HEIGHT = 700\nPREVIEW_MAX_WIDTH = 1200\nRECENT_DIRECTORY_SOURCE = None\nRECENT_DIRECTORY_TARGET = None\nRECENT_DIRECTORY_OUTPUT = None\npreview_label = None\npreview_slider = None",
+        "detail": "roop.ui",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_WIDTH",
+        "kind": 5,
+        "importPath": "roop.ui",
+        "description": "roop.ui",
+        "peekOfCode": "ROOT_WIDTH = 600\nPREVIEW = None\nPREVIEW_MAX_HEIGHT = 700\nPREVIEW_MAX_WIDTH = 1200\nRECENT_DIRECTORY_SOURCE = None\nRECENT_DIRECTORY_TARGET = None\nRECENT_DIRECTORY_OUTPUT = None\npreview_label = None\npreview_slider = None\nsource_label = None",
+        "detail": "roop.ui",
+        "documentation": {}
+    },
+    {
+        "label": "PREVIEW",
+        "kind": 5,
+        "importPath": "roop.ui",
+        "description": "roop.ui",
+        "peekOfCode": "PREVIEW = None\nPREVIEW_MAX_HEIGHT = 700\nPREVIEW_MAX_WIDTH = 1200\nRECENT_DIRECTORY_SOURCE = None\nRECENT_DIRECTORY_TARGET = None\nRECENT_DIRECTORY_OUTPUT = None\npreview_label = None\npreview_slider = None\nsource_label = None\ntarget_label = None",
+        "detail": "roop.ui",
+        "documentation": {}
+    },
+    {
+        "label": "PREVIEW_MAX_HEIGHT",
+        "kind": 5,
+        "importPath": "roop.ui",
+        "description": "roop.ui",
+        "peekOfCode": "PREVIEW_MAX_HEIGHT = 700\nPREVIEW_MAX_WIDTH = 1200\nRECENT_DIRECTORY_SOURCE = None\nRECENT_DIRECTORY_TARGET = None\nRECENT_DIRECTORY_OUTPUT = None\npreview_label = None\npreview_slider = None\nsource_label = None\ntarget_label = None\nstatus_label = None",
+        "detail": "roop.ui",
+        "documentation": {}
+    },
+    {
+        "label": "PREVIEW_MAX_WIDTH",
+        "kind": 5,
+        "importPath": "roop.ui",
+        "description": "roop.ui",
+        "peekOfCode": "PREVIEW_MAX_WIDTH = 1200\nRECENT_DIRECTORY_SOURCE = None\nRECENT_DIRECTORY_TARGET = None\nRECENT_DIRECTORY_OUTPUT = None\npreview_label = None\npreview_slider = None\nsource_label = None\ntarget_label = None\nstatus_label = None\n# todo: remove by native support -> https://github.com/TomSchimansky/CustomTkinter/issues/934",
+        "detail": "roop.ui",
+        "documentation": {}
+    },
+    {
+        "label": "RECENT_DIRECTORY_SOURCE",
+        "kind": 5,
+        "importPath": "roop.ui",
+        "description": "roop.ui",
+        "peekOfCode": "RECENT_DIRECTORY_SOURCE = None\nRECENT_DIRECTORY_TARGET = None\nRECENT_DIRECTORY_OUTPUT = None\npreview_label = None\npreview_slider = None\nsource_label = None\ntarget_label = None\nstatus_label = None\n# todo: remove by native support -> https://github.com/TomSchimansky/CustomTkinter/issues/934\nclass CTk(ctk.CTk, TkinterDnD.DnDWrapper):",
+        "detail": "roop.ui",
+        "documentation": {}
+    },
+    {
+        "label": "RECENT_DIRECTORY_TARGET",
+        "kind": 5,
+        "importPath": "roop.ui",
+        "description": "roop.ui",
+        "peekOfCode": "RECENT_DIRECTORY_TARGET = None\nRECENT_DIRECTORY_OUTPUT = None\npreview_label = None\npreview_slider = None\nsource_label = None\ntarget_label = None\nstatus_label = None\n# todo: remove by native support -> https://github.com/TomSchimansky/CustomTkinter/issues/934\nclass CTk(ctk.CTk, TkinterDnD.DnDWrapper):\n    def __init__(self, *args: Any, **kwargs: Any) -> None:",
+        "detail": "roop.ui",
+        "documentation": {}
+    },
+    {
+        "label": "RECENT_DIRECTORY_OUTPUT",
+        "kind": 5,
+        "importPath": "roop.ui",
+        "description": "roop.ui",
+        "peekOfCode": "RECENT_DIRECTORY_OUTPUT = None\npreview_label = None\npreview_slider = None\nsource_label = None\ntarget_label = None\nstatus_label = None\n# todo: remove by native support -> https://github.com/TomSchimansky/CustomTkinter/issues/934\nclass CTk(ctk.CTk, TkinterDnD.DnDWrapper):\n    def __init__(self, *args: Any, **kwargs: Any) -> None:\n        super().__init__(*args, **kwargs)",
+        "detail": "roop.ui",
+        "documentation": {}
+    },
+    {
+        "label": "preview_label",
+        "kind": 5,
+        "importPath": "roop.ui",
+        "description": "roop.ui",
+        "peekOfCode": "preview_label = None\npreview_slider = None\nsource_label = None\ntarget_label = None\nstatus_label = None\n# todo: remove by native support -> https://github.com/TomSchimansky/CustomTkinter/issues/934\nclass CTk(ctk.CTk, TkinterDnD.DnDWrapper):\n    def __init__(self, *args: Any, **kwargs: Any) -> None:\n        super().__init__(*args, **kwargs)\n        self.TkdndVersion = TkinterDnD._require(self)",
+        "detail": "roop.ui",
+        "documentation": {}
+    },
+    {
+        "label": "preview_slider",
+        "kind": 5,
+        "importPath": "roop.ui",
+        "description": "roop.ui",
+        "peekOfCode": "preview_slider = None\nsource_label = None\ntarget_label = None\nstatus_label = None\n# todo: remove by native support -> https://github.com/TomSchimansky/CustomTkinter/issues/934\nclass CTk(ctk.CTk, TkinterDnD.DnDWrapper):\n    def __init__(self, *args: Any, **kwargs: Any) -> None:\n        super().__init__(*args, **kwargs)\n        self.TkdndVersion = TkinterDnD._require(self)\ndef init(start: Callable[[], None], destroy: Callable[[], None]) -> ctk.CTk:",
+        "detail": "roop.ui",
+        "documentation": {}
+    },
+    {
+        "label": "source_label",
+        "kind": 5,
+        "importPath": "roop.ui",
+        "description": "roop.ui",
+        "peekOfCode": "source_label = None\ntarget_label = None\nstatus_label = None\n# todo: remove by native support -> https://github.com/TomSchimansky/CustomTkinter/issues/934\nclass CTk(ctk.CTk, TkinterDnD.DnDWrapper):\n    def __init__(self, *args: Any, **kwargs: Any) -> None:\n        super().__init__(*args, **kwargs)\n        self.TkdndVersion = TkinterDnD._require(self)\ndef init(start: Callable[[], None], destroy: Callable[[], None]) -> ctk.CTk:\n    global ROOT, PREVIEW",
+        "detail": "roop.ui",
+        "documentation": {}
+    },
+    {
+        "label": "target_label",
+        "kind": 5,
+        "importPath": "roop.ui",
+        "description": "roop.ui",
+        "peekOfCode": "target_label = None\nstatus_label = None\n# todo: remove by native support -> https://github.com/TomSchimansky/CustomTkinter/issues/934\nclass CTk(ctk.CTk, TkinterDnD.DnDWrapper):\n    def __init__(self, *args: Any, **kwargs: Any) -> None:\n        super().__init__(*args, **kwargs)\n        self.TkdndVersion = TkinterDnD._require(self)\ndef init(start: Callable[[], None], destroy: Callable[[], None]) -> ctk.CTk:\n    global ROOT, PREVIEW\n    ROOT = create_root(start, destroy)",
+        "detail": "roop.ui",
+        "documentation": {}
+    },
+    {
+        "label": "status_label",
+        "kind": 5,
+        "importPath": "roop.ui",
+        "description": "roop.ui",
+        "peekOfCode": "status_label = None\n# todo: remove by native support -> https://github.com/TomSchimansky/CustomTkinter/issues/934\nclass CTk(ctk.CTk, TkinterDnD.DnDWrapper):\n    def __init__(self, *args: Any, **kwargs: Any) -> None:\n        super().__init__(*args, **kwargs)\n        self.TkdndVersion = TkinterDnD._require(self)\ndef init(start: Callable[[], None], destroy: Callable[[], None]) -> ctk.CTk:\n    global ROOT, PREVIEW\n    ROOT = create_root(start, destroy)\n    PREVIEW = create_preview(ROOT)",
+        "detail": "roop.ui",
+        "documentation": {}
+    },
+    {
+        "label": "run_ffmpeg",
+        "kind": 2,
+        "importPath": "roop.utilities",
+        "description": "roop.utilities",
+        "peekOfCode": "def run_ffmpeg(args: List[str]) -> bool:\n    commands = ['ffmpeg', '-hide_banner', '-loglevel', roop.globals.log_level]\n    commands.extend(args)\n    try:\n        subprocess.check_output(commands, stderr=subprocess.STDOUT)\n        return True\n    except Exception:\n        pass\n    return False\ndef detect_fps(target_path: str) -> float:",
+        "detail": "roop.utilities",
+        "documentation": {}
+    },
+    {
+        "label": "detect_fps",
+        "kind": 2,
+        "importPath": "roop.utilities",
+        "description": "roop.utilities",
+        "peekOfCode": "def detect_fps(target_path: str) -> float:\n    command = ['ffprobe', '-v', 'error', '-select_streams', 'v:0', '-show_entries', 'stream=r_frame_rate', '-of', 'default=noprint_wrappers=1:nokey=1', target_path]\n    output = subprocess.check_output(command).decode().strip().split('/')\n    try:\n        numerator, denominator = map(int, output)\n        return numerator / denominator\n    except Exception:\n        pass\n    return 30\ndef extract_frames(target_path: str, fps: float = 30) -> bool:",
+        "detail": "roop.utilities",
+        "documentation": {}
+    },
+    {
+        "label": "extract_frames",
+        "kind": 2,
+        "importPath": "roop.utilities",
+        "description": "roop.utilities",
+        "peekOfCode": "def extract_frames(target_path: str, fps: float = 30) -> bool:\n    temp_directory_path = get_temp_directory_path(target_path)\n    temp_frame_quality = roop.globals.temp_frame_quality * 31 // 100\n    return run_ffmpeg(['-hwaccel', 'auto', '-i', target_path, '-q:v', str(temp_frame_quality), '-pix_fmt', 'rgb24', '-vf', 'fps=' + str(fps), os.path.join(temp_directory_path, '%04d.' + roop.globals.temp_frame_format)])\ndef create_video(target_path: str, fps: float = 30) -> bool:\n    temp_output_path = get_temp_output_path(target_path)\n    temp_directory_path = get_temp_directory_path(target_path)\n    output_video_quality = (roop.globals.output_video_quality + 1) * 51 // 100\n    commands = ['-hwaccel', 'auto', '-r', str(fps), '-i', os.path.join(temp_directory_path, '%04d.' + roop.globals.temp_frame_format), '-c:v', roop.globals.output_video_encoder]\n    if roop.globals.output_video_encoder in ['libx264', 'libx265', 'libvpx']:",
+        "detail": "roop.utilities",
+        "documentation": {}
+    },
+    {
+        "label": "create_video",
+        "kind": 2,
+        "importPath": "roop.utilities",
+        "description": "roop.utilities",
+        "peekOfCode": "def create_video(target_path: str, fps: float = 30) -> bool:\n    temp_output_path = get_temp_output_path(target_path)\n    temp_directory_path = get_temp_directory_path(target_path)\n    output_video_quality = (roop.globals.output_video_quality + 1) * 51 // 100\n    commands = ['-hwaccel', 'auto', '-r', str(fps), '-i', os.path.join(temp_directory_path, '%04d.' + roop.globals.temp_frame_format), '-c:v', roop.globals.output_video_encoder]\n    if roop.globals.output_video_encoder in ['libx264', 'libx265', 'libvpx']:\n        commands.extend(['-crf', str(output_video_quality)])\n    if roop.globals.output_video_encoder in ['h264_nvenc', 'hevc_nvenc']:\n        commands.extend(['-cq', str(output_video_quality)])\n    commands.extend(['-pix_fmt', 'yuv420p', '-vf', 'colorspace=bt709:iall=bt601-6-625:fast=1', '-y', temp_output_path])",
+        "detail": "roop.utilities",
+        "documentation": {}
+    },
+    {
+        "label": "restore_audio",
+        "kind": 2,
+        "importPath": "roop.utilities",
+        "description": "roop.utilities",
+        "peekOfCode": "def restore_audio(target_path: str, output_path: str) -> None:\n    temp_output_path = get_temp_output_path(target_path)\n    done = run_ffmpeg(['-i', temp_output_path, '-i', target_path, '-c:v', 'copy', '-map', '0:v:0', '-map', '1:a:0', '-y', output_path])\n    if not done:\n        move_temp(target_path, output_path)\ndef get_temp_frame_paths(target_path: str) -> List[str]:\n    temp_directory_path = get_temp_directory_path(target_path)\n    return glob.glob((os.path.join(glob.escape(temp_directory_path), '*.' + roop.globals.temp_frame_format)))\ndef get_temp_directory_path(target_path: str) -> str:\n    target_name, _ = os.path.splitext(os.path.basename(target_path))",
+        "detail": "roop.utilities",
+        "documentation": {}
+    },
+    {
+        "label": "get_temp_frame_paths",
+        "kind": 2,
+        "importPath": "roop.utilities",
+        "description": "roop.utilities",
+        "peekOfCode": "def get_temp_frame_paths(target_path: str) -> List[str]:\n    temp_directory_path = get_temp_directory_path(target_path)\n    return glob.glob((os.path.join(glob.escape(temp_directory_path), '*.' + roop.globals.temp_frame_format)))\ndef get_temp_directory_path(target_path: str) -> str:\n    target_name, _ = os.path.splitext(os.path.basename(target_path))\n    target_directory_path = os.path.dirname(target_path)\n    return os.path.join(target_directory_path, TEMP_DIRECTORY, target_name)\ndef get_temp_output_path(target_path: str) -> str:\n    temp_directory_path = get_temp_directory_path(target_path)\n    return os.path.join(temp_directory_path, TEMP_VIDEO_FILE)",
+        "detail": "roop.utilities",
+        "documentation": {}
+    },
+    {
+        "label": "get_temp_directory_path",
+        "kind": 2,
+        "importPath": "roop.utilities",
+        "description": "roop.utilities",
+        "peekOfCode": "def get_temp_directory_path(target_path: str) -> str:\n    target_name, _ = os.path.splitext(os.path.basename(target_path))\n    target_directory_path = os.path.dirname(target_path)\n    return os.path.join(target_directory_path, TEMP_DIRECTORY, target_name)\ndef get_temp_output_path(target_path: str) -> str:\n    temp_directory_path = get_temp_directory_path(target_path)\n    return os.path.join(temp_directory_path, TEMP_VIDEO_FILE)\ndef normalize_output_path(source_path: str, target_path: str, output_path: str) -> Optional[str]:\n    if source_path and target_path and output_path:\n        source_name, _ = os.path.splitext(os.path.basename(source_path))",
+        "detail": "roop.utilities",
+        "documentation": {}
+    },
+    {
+        "label": "get_temp_output_path",
+        "kind": 2,
+        "importPath": "roop.utilities",
+        "description": "roop.utilities",
+        "peekOfCode": "def get_temp_output_path(target_path: str) -> str:\n    temp_directory_path = get_temp_directory_path(target_path)\n    return os.path.join(temp_directory_path, TEMP_VIDEO_FILE)\ndef normalize_output_path(source_path: str, target_path: str, output_path: str) -> Optional[str]:\n    if source_path and target_path and output_path:\n        source_name, _ = os.path.splitext(os.path.basename(source_path))\n        target_name, target_extension = os.path.splitext(os.path.basename(target_path))\n        if os.path.isdir(output_path):\n            return os.path.join(output_path, source_name + '-' + target_name + target_extension)\n    return output_path",
+        "detail": "roop.utilities",
+        "documentation": {}
+    },
+    {
+        "label": "normalize_output_path",
+        "kind": 2,
+        "importPath": "roop.utilities",
+        "description": "roop.utilities",
+        "peekOfCode": "def normalize_output_path(source_path: str, target_path: str, output_path: str) -> Optional[str]:\n    if source_path and target_path and output_path:\n        source_name, _ = os.path.splitext(os.path.basename(source_path))\n        target_name, target_extension = os.path.splitext(os.path.basename(target_path))\n        if os.path.isdir(output_path):\n            return os.path.join(output_path, source_name + '-' + target_name + target_extension)\n    return output_path\ndef create_temp(target_path: str) -> None:\n    temp_directory_path = get_temp_directory_path(target_path)\n    Path(temp_directory_path).mkdir(parents=True, exist_ok=True)",
+        "detail": "roop.utilities",
+        "documentation": {}
+    },
+    {
+        "label": "create_temp",
+        "kind": 2,
+        "importPath": "roop.utilities",
+        "description": "roop.utilities",
+        "peekOfCode": "def create_temp(target_path: str) -> None:\n    temp_directory_path = get_temp_directory_path(target_path)\n    Path(temp_directory_path).mkdir(parents=True, exist_ok=True)\ndef move_temp(target_path: str, output_path: str) -> None:\n    temp_output_path = get_temp_output_path(target_path)\n    if os.path.isfile(temp_output_path):\n        if os.path.isfile(output_path):\n            os.remove(output_path)\n        shutil.move(temp_output_path, output_path)\ndef clean_temp(target_path: str) -> None:",
+        "detail": "roop.utilities",
+        "documentation": {}
+    },
+    {
+        "label": "move_temp",
+        "kind": 2,
+        "importPath": "roop.utilities",
+        "description": "roop.utilities",
+        "peekOfCode": "def move_temp(target_path: str, output_path: str) -> None:\n    temp_output_path = get_temp_output_path(target_path)\n    if os.path.isfile(temp_output_path):\n        if os.path.isfile(output_path):\n            os.remove(output_path)\n        shutil.move(temp_output_path, output_path)\ndef clean_temp(target_path: str) -> None:\n    temp_directory_path = get_temp_directory_path(target_path)\n    parent_directory_path = os.path.dirname(temp_directory_path)\n    if not roop.globals.keep_frames and os.path.isdir(temp_directory_path):",
+        "detail": "roop.utilities",
+        "documentation": {}
+    },
+    {
+        "label": "clean_temp",
+        "kind": 2,
+        "importPath": "roop.utilities",
+        "description": "roop.utilities",
+        "peekOfCode": "def clean_temp(target_path: str) -> None:\n    temp_directory_path = get_temp_directory_path(target_path)\n    parent_directory_path = os.path.dirname(temp_directory_path)\n    if not roop.globals.keep_frames and os.path.isdir(temp_directory_path):\n        shutil.rmtree(temp_directory_path)\n    if os.path.exists(parent_directory_path) and not os.listdir(parent_directory_path):\n        os.rmdir(parent_directory_path)\ndef has_image_extension(image_path: str) -> bool:\n    return image_path.lower().endswith(('png', 'jpg', 'jpeg', 'webp'))\ndef is_image(image_path: str) -> bool:",
+        "detail": "roop.utilities",
+        "documentation": {}
+    },
+    {
+        "label": "has_image_extension",
+        "kind": 2,
+        "importPath": "roop.utilities",
+        "description": "roop.utilities",
+        "peekOfCode": "def has_image_extension(image_path: str) -> bool:\n    return image_path.lower().endswith(('png', 'jpg', 'jpeg', 'webp'))\ndef is_image(image_path: str) -> bool:\n    if image_path and os.path.isfile(image_path):\n        mimetype, _ = mimetypes.guess_type(image_path)\n        return bool(mimetype and mimetype.startswith('image/'))\n    return False\ndef is_video(video_path: str) -> bool:\n    if video_path and os.path.isfile(video_path):\n        mimetype, _ = mimetypes.guess_type(video_path)",
+        "detail": "roop.utilities",
+        "documentation": {}
+    },
+    {
+        "label": "is_image",
+        "kind": 2,
+        "importPath": "roop.utilities",
+        "description": "roop.utilities",
+        "peekOfCode": "def is_image(image_path: str) -> bool:\n    if image_path and os.path.isfile(image_path):\n        mimetype, _ = mimetypes.guess_type(image_path)\n        return bool(mimetype and mimetype.startswith('image/'))\n    return False\ndef is_video(video_path: str) -> bool:\n    if video_path and os.path.isfile(video_path):\n        mimetype, _ = mimetypes.guess_type(video_path)\n        return bool(mimetype and mimetype.startswith('video/'))\n    return False",
+        "detail": "roop.utilities",
+        "documentation": {}
+    },
+    {
+        "label": "is_video",
+        "kind": 2,
+        "importPath": "roop.utilities",
+        "description": "roop.utilities",
+        "peekOfCode": "def is_video(video_path: str) -> bool:\n    if video_path and os.path.isfile(video_path):\n        mimetype, _ = mimetypes.guess_type(video_path)\n        return bool(mimetype and mimetype.startswith('video/'))\n    return False\ndef conditional_download(download_directory_path: str, urls: List[str]) -> None:\n    if not os.path.exists(download_directory_path):\n        os.makedirs(download_directory_path)\n    for url in urls:\n        download_file_path = os.path.join(download_directory_path, os.path.basename(url))",
+        "detail": "roop.utilities",
+        "documentation": {}
+    },
+    {
+        "label": "conditional_download",
+        "kind": 2,
+        "importPath": "roop.utilities",
+        "description": "roop.utilities",
+        "peekOfCode": "def conditional_download(download_directory_path: str, urls: List[str]) -> None:\n    if not os.path.exists(download_directory_path):\n        os.makedirs(download_directory_path)\n    for url in urls:\n        download_file_path = os.path.join(download_directory_path, os.path.basename(url))\n        if not os.path.exists(download_file_path):\n            request = urllib.request.urlopen(url)  # type: ignore[attr-defined]\n            total = int(request.headers.get('Content-Length', 0))\n            with tqdm(total=total, desc='Downloading', unit='B', unit_scale=True, unit_divisor=1024) as progress:\n                urllib.request.urlretrieve(url, download_file_path, reporthook=lambda count, block_size, total_size: progress.update(block_size))  # type: ignore[attr-defined]",
+        "detail": "roop.utilities",
+        "documentation": {}
+    },
+    {
+        "label": "resolve_relative_path",
+        "kind": 2,
+        "importPath": "roop.utilities",
+        "description": "roop.utilities",
+        "peekOfCode": "def resolve_relative_path(path: str) -> str:\n    return os.path.abspath(os.path.join(os.path.dirname(__file__), path))",
+        "detail": "roop.utilities",
+        "documentation": {}
+    },
+    {
+        "label": "TEMP_DIRECTORY",
+        "kind": 5,
+        "importPath": "roop.utilities",
+        "description": "roop.utilities",
+        "peekOfCode": "TEMP_DIRECTORY = 'temp'\nTEMP_VIDEO_FILE = 'temp.mp4'\n# monkey patch ssl for mac\nif platform.system().lower() == 'darwin':\n    ssl._create_default_https_context = ssl._create_unverified_context\ndef run_ffmpeg(args: List[str]) -> bool:\n    commands = ['ffmpeg', '-hide_banner', '-loglevel', roop.globals.log_level]\n    commands.extend(args)\n    try:\n        subprocess.check_output(commands, stderr=subprocess.STDOUT)",
+        "detail": "roop.utilities",
+        "documentation": {}
+    },
+    {
+        "label": "TEMP_VIDEO_FILE",
+        "kind": 5,
+        "importPath": "roop.utilities",
+        "description": "roop.utilities",
+        "peekOfCode": "TEMP_VIDEO_FILE = 'temp.mp4'\n# monkey patch ssl for mac\nif platform.system().lower() == 'darwin':\n    ssl._create_default_https_context = ssl._create_unverified_context\ndef run_ffmpeg(args: List[str]) -> bool:\n    commands = ['ffmpeg', '-hide_banner', '-loglevel', roop.globals.log_level]\n    commands.extend(args)\n    try:\n        subprocess.check_output(commands, stderr=subprocess.STDOUT)\n        return True",
+        "detail": "roop.utilities",
+        "documentation": {}
+    },
+    {
+        "label": "process_images",
+        "kind": 2,
+        "importPath": "server",
+        "description": "server",
+        "peekOfCode": "def process_images():\n  try:\n    data = request.get_json()\n    source_path = data.get('sourcePath')\n    target_path = data.get('targetPath')\n    output_path = data.get('outputPath')\n    if (not source_path or not target_path or not output_path):\n      return jsonify({\"code\": 400, \"message\": \"Bad request\"})\n    res = core.run(source_path, target_path, output_path)\n    print(res)",
+        "detail": "server",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "server",
+        "description": "server",
+        "peekOfCode": "app = Flask(__name__)\n@app.route(\"/swap-faces\", methods=['POST'])\ndef process_images():\n  try:\n    data = request.get_json()\n    source_path = data.get('sourcePath')\n    target_path = data.get('targetPath')\n    output_path = data.get('outputPath')\n    if (not source_path or not target_path or not output_path):\n      return jsonify({\"code\": 400, \"message\": \"Bad request\"})",
+        "detail": "server",
+        "documentation": {}
+    }
+]
